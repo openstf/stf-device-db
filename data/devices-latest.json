@@ -107,33 +107,6 @@
       "s": "small/DM016SH.jpg"
     }
   },
-  "SH-01F_DRAGON_QUEST": {
-    "name": {
-      "id": "SH-01F",
-      "long": "DRAGON QUEST"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.2"
-    },
-    "date": "2013-11-30T15:00:00.000Z",
-    "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 5
-    },
-    "image": {
-      "s": "small/SH-01F_DRAGON_QUEST.jpg"
-    }
-  },
   "F-03F": {
     "name": {
       "id": "Disney Mobile on docomo",
@@ -159,60 +132,6 @@
     },
     "image": {
       "s": "small/F-03F.jpg"
-    }
-  },
-  "301F": {
-    "name": {
-      "id": "ARROWS A",
-      "long": "301F"
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "f",
-      "name": "富士通"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.2"
-    },
-    "date": "2013-11-30T15:00:00.000Z",
-    "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 5
-    },
-    "image": {
-      "s": "small/301F.jpg"
-    }
-  },
-  "302SH": {
-    "name": {
-      "id": "AQUOS PHONE Xx",
-      "long": "302SH"
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.2"
-    },
-    "date": "2013-11-30T15:00:00.000Z",
-    "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 5.2
-    },
-    "image": {
-      "s": "small/302SH.jpg"
     }
   },
   "SO-02F": {
@@ -242,6 +161,87 @@
       "s": "small/SO-02F.jpg"
     }
   },
+  "SH-01F_DRAGON_QUEST": {
+    "name": {
+      "id": "SH-01F",
+      "long": "DRAGON QUEST"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "date": "2013-12-06T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    },
+    "image": {
+      "s": "small/SH-01F_DRAGON_QUEST.jpg"
+    }
+  },
+  "301F": {
+    "name": {
+      "id": "ARROWS A",
+      "long": "301F"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "f",
+      "name": "富士通"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "date": "2013-12-05T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    },
+    "image": {
+      "s": "small/301F.jpg"
+    }
+  },
+  "302SH": {
+    "name": {
+      "id": "AQUOS PHONE Xx",
+      "long": "302SH"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "date": "2013-12-05T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    },
+    "image": {
+      "s": "small/302SH.jpg"
+    }
+  },
   "LGL22": {
     "name": {
       "id": "isai",
@@ -259,7 +259,7 @@
       "type": "android",
       "ver": "4.2"
     },
-    "date": "2013-10-31T15:00:00.000Z",
+    "date": "2013-11-22T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
@@ -267,6 +267,33 @@
     },
     "image": {
       "s": "small/LGL22.jpg"
+    }
+  },
+  "KYL22": {
+    "name": {
+      "id": "DIGNO M ",
+      "long": "KYL22"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "date": "2013-11-22T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    },
+    "image": {
+      "s": "small/KYL22.jpg"
     }
   },
   "FJL22": {
@@ -286,7 +313,7 @@
       "type": "android",
       "ver": "4.2"
     },
-    "date": "2013-10-31T15:00:00.000Z",
+    "date": "2013-11-21T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
@@ -313,7 +340,7 @@
       "type": "android",
       "ver": "4.2"
     },
-    "date": "2013-10-31T15:00:00.000Z",
+    "date": "2013-11-14T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
@@ -323,31 +350,31 @@
       "s": "small/SHL23.jpg"
     }
   },
-  "KYL22": {
+  "Nexus_5": {
     "name": {
-      "id": "DIGNO M ",
-      "long": "KYL22"
+      "id": "Nexus 5",
+      "long": ""
     },
     "carrier": {
-      "code": "a",
-      "name": "au"
+      "code": "e",
+      "name": "イー・モバイル"
     },
     "maker": {
-      "code": "k",
-      "name": "京セラ"
+      "code": "l",
+      "name": "LG"
     },
     "os": {
       "type": "android",
-      "ver": "4.2"
+      "ver": "4.4"
     },
-    "date": "2013-10-31T15:00:00.000Z",
+    "date": "2013-11-14T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
       "s": 5
     },
     "image": {
-      "s": "small/KYL22.jpg"
+      "s": "small/Nexus_5.jpg"
     }
   },
   "SH-01F": {
@@ -367,7 +394,7 @@
       "type": "android",
       "ver": "4.2"
     },
-    "date": "2013-10-31T15:00:00.000Z",
+    "date": "2013-11-06T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
@@ -375,33 +402,6 @@
     },
     "image": {
       "s": "small/SH-01F.jpg"
-    }
-  },
-  "SOL23": {
-    "name": {
-      "id": "Xperia Z1",
-      "long": "SOL23"
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "so",
-      "name": "ソニーモバイル"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.2"
-    },
-    "date": "2013-09-30T15:00:00.000Z",
-    "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 5
-    },
-    "image": {
-      "s": "small/SOL23.jpg"
     }
   },
   "SC-02F": {
@@ -421,7 +421,7 @@
       "type": "android",
       "ver": "4.3"
     },
-    "date": "2013-09-30T15:00:00.000Z",
+    "date": "2013-10-30T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
@@ -483,6 +483,33 @@
     },
     "image": {
       "s": "small/SO-01F.jpg"
+    }
+  },
+  "SOL23": {
+    "name": {
+      "id": "Xperia Z1",
+      "long": "SOL23"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "date": "2013-10-22T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    },
+    "image": {
+      "s": "small/SOL23.jpg"
     }
   },
   "SC-01F": {
@@ -608,7 +635,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
@@ -635,7 +662,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
@@ -662,7 +689,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
@@ -689,7 +716,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
@@ -716,7 +743,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
@@ -743,7 +770,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
@@ -1310,7 +1337,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.1"
+      "ver": "4.2"
     },
     "date": "2013-05-24T15:00:00.000Z",
     "display": {
@@ -1553,7 +1580,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2013-03-06T15:00:00.000Z",
     "display": {
@@ -1742,7 +1769,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.1"
+      "ver": "4.2"
     },
     "date": "2013-02-08T15:00:00.000Z",
     "display": {
@@ -1958,7 +1985,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.1"
     },
     "date": "2012-12-20T15:00:00.000Z",
     "display": {
@@ -2174,7 +2201,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.2"
     },
     "date": "2012-11-27T15:00:00.000Z",
     "display": {
@@ -2390,7 +2417,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.1"
     },
     "date": "2012-11-01T15:00:00.000Z",
     "display": {
@@ -2606,7 +2633,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2012-09-20T15:00:00.000Z",
     "display": {
@@ -2633,7 +2660,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2012-09-20T15:00:00.000Z",
     "display": {
@@ -2930,7 +2957,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.1"
     },
     "date": "2012-07-27T15:00:00.000Z",
     "display": {
@@ -2957,7 +2984,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.1"
     },
     "date": "2012-07-25T15:00:00.000Z",
     "display": {
@@ -3038,7 +3065,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.2"
     },
     "date": "2012-07-19T15:00:00.000Z",
     "display": {
@@ -4928,7 +4955,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2011-10-13T15:00:00.000Z",
     "display": {
@@ -4955,7 +4982,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2011-10-13T15:00:00.000Z",
     "display": {
@@ -5266,8 +5293,8 @@
   },
   "009SH": {
     "name": {
-      "id": "AQUOS PHONE",
-      "long": "THE PREMIUM 009SH"
+      "id": "AQUOS PHONE THE PREMIUM",
+      "long": "009SH"
     },
     "carrier": {
       "code": "s",
@@ -5455,8 +5482,8 @@
   },
   "007SH_J": {
     "name": {
-      "id": "AQUOS PHONE",
-      "long": "THE HYBRID 007SH J"
+      "id": "AQUOS PHONE THE HYBRID",
+      "long": "007SH J"
     },
     "carrier": {
       "code": "s",
@@ -6548,7 +6575,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.0.2"
+      "ver": "7.0.4"
     },
     "date": "2010-06-23T15:00:00.000Z",
     "display": {
@@ -7098,6 +7125,33 @@
     },
     "image": {
       "s": "small/S11HT.jpg"
+    }
+  },
+  "Nexus7": {
+    "name": {
+      "id": "Nexus 7",
+      "long": "Nexus 7"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    },
+    "date": "2013-08-28T15:00:00.000Z",
+    "display": {
+      "w": 1200,
+      "h": 1920,
+      "s": 7.02
+    },
+    "image": {
+      "s": "small/Nexus_7.jpg"
     }
   }
 }
