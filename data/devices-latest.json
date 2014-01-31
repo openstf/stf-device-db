@@ -1,29 +1,29 @@
 {
-  "SH-03F": {
+  "L02": {
     "name": {
-      "id": "スマートフォン for ジュニア2",
-      "long": "SH-03F"
+      "id": "URBANO",
+      "long": "L02"
     },
     "carrier": {
-      "code": "d",
-      "name": "ドコモ"
+      "code": "a",
+      "name": "au"
     },
     "maker": {
-      "code": "sh",
-      "name": "シャープ"
+      "code": "k",
+      "name": "京セラ"
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.2"
     },
     "date": "2014-01-31T15:00:00.000Z",
     "display": {
-      "w": 540,
-      "h": 960,
-      "s": 4.1
+      "w": 720,
+      "h": 1280,
+      "s": 4.7
     },
     "image": {
-      "s": "small/SH-03F.jpg"
+      "s": "small/L02.jpg"
     }
   },
   "303SH": {
@@ -53,10 +53,37 @@
       "s": "small/303SH.jpg"
     }
   },
-  "SH-02F": {
+  "SHL24": {
     "name": {
-      "id": "AQUOS PHONE EX",
-      "long": "SH-02F"
+      "id": "AQUOS PHONE SERIE mini",
+      "long": "SHL24"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "date": "2014-01-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 4.5
+    },
+    "image": {
+      "s": "small/SHL24.jpg"
+    }
+  },
+  "SH-03F": {
+    "name": {
+      "id": "スマートフォン for ジュニア2",
+      "long": "SH-03F"
     },
     "carrier": {
       "code": "d",
@@ -68,16 +95,70 @@
     },
     "os": {
       "type": "android",
+      "ver": "4.0"
+    },
+    "date": "2014-01-31T15:00:00.000Z",
+    "display": {
+      "w": 540,
+      "h": 960,
+      "s": 4.1
+    },
+    "image": {
+      "s": "small/SH-03F.jpg"
+    }
+  },
+  "SOL24": {
+    "name": {
+      "id": "Xperia Z Ultra",
+      "long": "SOL24"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
       "ver": "4.2"
     },
-    "date": "2013-12-31T15:00:00.000Z",
+    "date": "2014-01-24T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
-      "s": 4.5
+      "s": 6.4
     },
     "image": {
-      "s": "small/SH-02F.jpg"
+      "s": "small/SOL24.jpg"
+    }
+  },
+  "LGL23": {
+    "name": {
+      "id": "G Flex",
+      "long": "LGL23"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "l",
+      "name": "LG"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "date": "2014-01-24T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 6
+    },
+    "image": {
+      "s": "small/LGL23.jpg"
     }
   },
   "DM016SH": {
@@ -97,7 +178,7 @@
       "type": "android",
       "ver": "4.2"
     },
-    "date": "2013-12-31T15:00:00.000Z",
+    "date": "2014-01-23T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
@@ -107,31 +188,31 @@
       "s": "small/DM016SH.jpg"
     }
   },
-  "F-03F": {
+  "SH-02F": {
     "name": {
-      "id": "Disney Mobile on docomo",
-      "long": "F-03F"
+      "id": "AQUOS PHONE EX",
+      "long": "SH-02F"
     },
     "carrier": {
       "code": "d",
       "name": "ドコモ"
     },
     "maker": {
-      "code": "f",
-      "name": "富士通"
+      "code": "sh",
+      "name": "シャープ"
     },
     "os": {
       "type": "android",
       "ver": "4.2"
     },
-    "date": "2013-11-30T15:00:00.000Z",
+    "date": "2014-01-23T15:00:00.000Z",
     "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.7
+      "w": 1080,
+      "h": 1920,
+      "s": 4.5
     },
     "image": {
-      "s": "small/F-03F.jpg"
+      "s": "small/SH-02F.jpg"
     }
   },
   "SO-02F": {
@@ -151,7 +232,7 @@
       "type": "android",
       "ver": "4.2"
     },
-    "date": "2013-11-30T15:00:00.000Z",
+    "date": "2013-12-18T15:00:00.000Z",
     "display": {
       "w": 720,
       "h": 1280,
@@ -159,6 +240,33 @@
     },
     "image": {
       "s": "small/SO-02F.jpg"
+    }
+  },
+  "F-03F": {
+    "name": {
+      "id": "Disney Mobile on docomo",
+      "long": "F-03F"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "f",
+      "name": "富士通"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "date": "2013-12-12T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.7
+    },
+    "image": {
+      "s": "small/F-03F.jpg"
     }
   },
   "SH-01F_DRAGON_QUEST": {
@@ -353,7 +461,7 @@
   "Nexus_5": {
     "name": {
       "id": "Nexus 5",
-      "long": ""
+      "long": "EM01L"
     },
     "carrier": {
       "code": "e",
@@ -1931,7 +2039,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.1"
     },
     "date": "2012-12-20T15:00:00.000Z",
     "display": {
@@ -2093,7 +2201,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.1"
     },
     "date": "2012-12-07T15:00:00.000Z",
     "display": {
@@ -2147,7 +2255,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.1"
     },
     "date": "2012-11-30T15:00:00.000Z",
     "display": {
@@ -2363,7 +2471,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.1"
     },
     "date": "2012-11-01T15:00:00.000Z",
     "display": {
@@ -2606,7 +2714,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.1"
     },
     "date": "2012-10-04T15:00:00.000Z",
     "display": {
@@ -6616,7 +6724,7 @@
   },
   "T-01B": {
     "name": {
-      "id": "LYNX",
+      "id": "dynapocket",
       "long": "T-01B"
     },
     "carrier": {
