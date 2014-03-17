@@ -1,0 +1,4 @@
+/.npmignore
+/*.tgz
+/npm-debug.log
+*.!sync
