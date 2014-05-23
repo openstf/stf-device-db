@@ -2,4 +2,5 @@
 /*.tgz
 /npm-debug.log
 /data/
+/Makefile
 *.!sync
