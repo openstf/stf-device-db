@@ -1,6 +1,6 @@
-/.npmignore
-/*.tgz
-/npm-debug.log
-/data/
-/Makefile
 *.!sync
+/*.tgz
+/.npmignore
+/Makefile
+/data/
+/npm-debug.log
