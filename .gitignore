@@ -5,6 +5,7 @@
 *.out
 *.pid
 *.seed
+*.tgz
 /dist/
 lib-cov
 logs
