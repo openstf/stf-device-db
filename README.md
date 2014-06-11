@@ -5,6 +5,12 @@ Smartphone devices JSON-based database including devices thumbnails.
 Data is updated regularly from different sources.
 
 
+## Dependencies
+
+```bash
+brew install jpegoptim graphicsmagick
+```
+
 ## Data sources
 
 ### World smarphones
