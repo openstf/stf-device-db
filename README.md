@@ -1,5 +1,4 @@
-stf-devices-db
-==============
+# stf-device-db
 
 Smartphone devices JSON-based database including devices thumbnails.
 
