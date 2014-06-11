@@ -19,9 +19,8 @@ brew install jpegoptim graphicsmagick
 
 ### Japanese smartphones
 
-* Part of the data was obtained (with permission) from Ultrazone's [Smartphone Database](http://smartphone.ultra-zone.net/). 
+* Part of the data was obtained (with permission) from Ultrazone's [Smartphone Database](http://smartphone.ultra-zone.net/).
 * 一部のデータに関してはウルトラゾーン様の[スマートフォンデータベース](http://smartphone.ultra-zone.net/)より使用許可を頂いております。
-
 
 ## License
 
