@@ -1,0 +1,83 @@
+{
+  "Nexus_5|hammerhead": {
+    "name": {
+      "id": "Nexus 5",
+      "long": "Nexus_5|hammerhead"
+    },
+    "carrier": {
+      "code": "e",
+      "name": "イー・モバイル"
+    },
+    "maker": {
+      "code": "l",
+      "name": "LG"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "date": "2013-11-14T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    },
+    "image": {
+      "s": "small/Nexus_5|hammerhead.jpg"
+    }
+  },
+  "Nexus 7|nakasi": {
+    "name": {
+      "id": "Nexus 7",
+      "long": "Nexus 7|nakasi"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    },
+    "date": "2012-09-25T15:00:00.000Z",
+    "display": {
+      "w": 800,
+      "h": 1280,
+      "s": 7
+    },
+    "image": {
+      "s": "small/Nexus_7|nakasi.jpg"
+    }
+  },
+  "Nexus 7|razorg": {
+    "name": {
+      "id": "Nexus 7",
+      "long": "Nexus 7|razorg"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    },
+    "date": "2013-08-28T15:00:00.000Z",
+    "display": {
+      "w": 1200,
+      "h": 1920,
+      "s": 7.02
+    },
+    "image": {
+      "s": "small/Nexus_7|razorg.jpg"
+    }
+  }
+}
