@@ -2,7 +2,7 @@
   "Nexus_5|hammerhead": {
     "name": {
       "id": "Nexus 5",
-      "long": "Nexus_5|hammerhead"
+      "long": "Nexus 5"
     },
     "carrier": {
       "code": "e",
@@ -29,7 +29,7 @@
   "Nexus 7|nakasi": {
     "name": {
       "id": "Nexus 7",
-      "long": "Nexus 7|nakasi"
+      "long": "Nexus 7"
     },
     "carrier": {
       "code": "d",
@@ -55,8 +55,8 @@
   },
   "Nexus 7|razorg": {
     "name": {
-      "id": "Nexus 7",
-      "long": "Nexus 7|razorg"
+      "id": "Nexus 7 (2013)",
+      "long": "Nexus 7"
     },
     "carrier": {
       "code": "d",
