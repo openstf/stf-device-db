@@ -1,4 +1,508 @@
 {
+  "F-06F": {
+    "name": {
+      "id": "らくらくスマートフォン3",
+      "long": "F-06F"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "f",
+      "name": "富士通"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8926",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 8192
+    },
+    "date": "2014-07-31T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.5
+    },
+    "image": {
+      "s": "small/F-06F.jpg"
+    }
+  },
+  "G01": {
+    "name": {
+      "id": "TORQUE",
+      "long": "G01"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8928",
+      "freq": 1.4,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-07-31T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.5
+    },
+    "image": {
+      "s": "small/G01.jpg"
+    }
+  },
+  "L03": {
+    "name": {
+      "id": "URBANO",
+      "long": "L03"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-06-30T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    },
+    "image": {
+      "s": "small/L03.jpg"
+    }
+  },
+  "LGL24": {
+    "name": {
+      "id": "isai FL",
+      "long": "LGL24"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "l",
+      "name": "LG"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.4,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-06-30T15:00:00.000Z",
+    "display": {
+      "w": 1440,
+      "h": 2560,
+      "s": 5.5
+    },
+    "image": {
+      "s": "small/LGL24.jpg"
+    }
+  },
+  "SO-04F": {
+    "name": {
+      "id": "Xperia A2",
+      "long": "SO-04F"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-06-18T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.3
+    },
+    "image": {
+      "s": "small/SO-04F.jpg"
+    }
+  },
+  "SHL25": {
+    "name": {
+      "id": "AQUOS SERIE",
+      "long": "SHL25"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-06-12T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    },
+    "image": {
+      "s": "small/SHL25.jpg"
+    }
+  },
+  "F-05F": {
+    "name": {
+      "id": "ARROWS NX",
+      "long": "F-05F"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "f",
+      "name": "富士通"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-05-29T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    },
+    "image": {
+      "s": "small/F-05F.jpg"
+    }
+  },
+  "SH-05F": {
+    "name": {
+      "id": "Disney Mobile on docomo",
+      "long": "SH-05F"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-05-28T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    },
+    "image": {
+      "s": "small/SH-05F.jpg"
+    }
+  },
+  "SOL25": {
+    "name": {
+      "id": "Xperia ZL2",
+      "long": "SOL25"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-05-22T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    },
+    "image": {
+      "s": "small/SOL25.jpg"
+    }
+  },
+  "304SH": {
+    "name": {
+      "id": "AQUOS Xx",
+      "long": "304SH"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-05-22T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    },
+    "image": {
+      "s": "small/304SH.jpg"
+    }
+  },
+  "SH-04F": {
+    "name": {
+      "id": "AQUOS ZETA",
+      "long": "SH-04F"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-05-22T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.4
+    },
+    "image": {
+      "s": "small/SH-04F.jpg"
+    }
+  },
+  "SO-03F": {
+    "name": {
+      "id": "Xperia Z2",
+      "long": "SO-03F"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-05-20T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    },
+    "image": {
+      "s": "small/SO-03F.jpg"
+    }
+  },
+  "SC-04F": {
+    "name": {
+      "id": "GALAXY S5",
+      "long": "SC-04F"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sc",
+      "name": "サムスン"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-05-14T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.1
+    },
+    "image": {
+      "s": "small/SC-04F.jpg"
+    }
+  },
+  "SCL23": {
+    "name": {
+      "id": "GALAXY S5",
+      "long": "SCL23"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sc",
+      "name": "サムスン"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-05-14T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.1
+    },
+    "image": {
+      "s": "small/SCL23.jpg"
+    }
+  },
   "WX05SH": {
     "name": {
       "id": "AQUOS PHONE ef",
@@ -15,6 +519,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Plus MSM8260A",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2014-03-05T15:00:00.000Z",
     "display": {
@@ -43,6 +556,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
     "date": "2014-02-21T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -69,6 +591,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
     },
     "date": "2014-02-20T15:00:00.000Z",
     "display": {
@@ -97,6 +628,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
     "date": "2014-02-07T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -123,6 +663,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Plus MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2014-01-31T15:00:00.000Z",
     "display": {
@@ -151,6 +700,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2014-01-24T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -177,6 +735,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2014-01-24T15:00:00.000Z",
     "display": {
@@ -205,6 +772,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2014-01-23T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -231,6 +807,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
     },
     "date": "2014-01-23T15:00:00.000Z",
     "display": {
@@ -259,6 +844,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
     "date": "2013-12-18T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -285,6 +879,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-12-12T15:00:00.000Z",
     "display": {
@@ -313,6 +916,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-12-06T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -339,6 +951,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 65536
     },
     "date": "2013-12-05T15:00:00.000Z",
     "display": {
@@ -367,6 +988,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-12-05T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -393,6 +1023,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-11-22T15:00:00.000Z",
     "display": {
@@ -421,6 +1060,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-11-22T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -447,6 +1095,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-11-21T15:00:00.000Z",
     "display": {
@@ -475,6 +1132,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
     "date": "2013-11-14T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -501,6 +1167,15 @@
     "os": {
       "type": "android",
       "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.26,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-11-14T15:00:00.000Z",
     "display": {
@@ -529,6 +1204,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-11-06T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -555,6 +1239,15 @@
     "os": {
       "type": "android",
       "ver": "4.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
     },
     "date": "2013-10-30T15:00:00.000Z",
     "display": {
@@ -583,6 +1276,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-10-23T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -609,6 +1311,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-10-23T15:00:00.000Z",
     "display": {
@@ -637,6 +1348,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-10-22T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -663,6 +1383,15 @@
     "os": {
       "type": "android",
       "ver": "4.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
     },
     "date": "2013-10-16T15:00:00.000Z",
     "display": {
@@ -691,6 +1420,15 @@
       "type": "android",
       "ver": "4.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
     "date": "2013-10-16T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -717,6 +1455,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-10-10T15:00:00.000Z",
     "display": {
@@ -745,6 +1492,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
     "date": "2013-10-03T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -771,6 +1527,15 @@
     "os": {
       "type": "ios",
       "ver": "7.1"
+    },
+    "cpu": {
+      "name": "Apple A6",
+      "freq": 1.25,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
     },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
@@ -799,6 +1564,15 @@
       "type": "ios",
       "ver": "7.1"
     },
+    "cpu": {
+      "name": "Apple A6",
+      "freq": 1.25,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
+    },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
       "w": 640,
@@ -825,6 +1599,15 @@
     "os": {
       "type": "ios",
       "ver": "7.1"
+    },
+    "cpu": {
+      "name": "Apple A7",
+      "freq": 1.3,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 65536
     },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
@@ -853,6 +1636,15 @@
       "type": "ios",
       "ver": "7.1"
     },
+    "cpu": {
+      "name": "Apple A7",
+      "freq": 1.3,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 65536
+    },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
       "w": 640,
@@ -879,6 +1671,15 @@
     "os": {
       "type": "ios",
       "ver": "7.1"
+    },
+    "cpu": {
+      "name": "Apple A6",
+      "freq": 1.25,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
     },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
@@ -907,6 +1708,15 @@
       "type": "ios",
       "ver": "7.1"
     },
+    "cpu": {
+      "name": "Apple A7",
+      "freq": 1.3,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 65536
+    },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
       "w": 640,
@@ -933,6 +1743,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Plus MSM8260A",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2013-09-18T15:00:00.000Z",
     "display": {
@@ -961,6 +1780,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-09-17T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -987,6 +1815,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
     },
     "date": "2013-09-04T15:00:00.000Z",
     "display": {
@@ -1015,6 +1852,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-08-19T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -1041,6 +1887,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 8192
     },
     "date": "2013-08-15T15:00:00.000Z",
     "display": {
@@ -1069,6 +1924,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 16384
+    },
     "date": "2013-08-01T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -1095,6 +1959,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 65536
     },
     "date": "2013-07-30T15:00:00.000Z",
     "display": {
@@ -1123,6 +1996,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 16384
+    },
     "date": "2013-07-17T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -1149,6 +2031,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
     },
     "date": "2013-07-11T15:00:00.000Z",
     "display": {
@@ -1177,6 +2068,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 16384
+    },
     "date": "2013-07-04T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -1203,6 +2103,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 65536
     },
     "date": "2013-06-27T15:00:00.000Z",
     "display": {
@@ -1231,6 +2140,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-06-27T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -1257,6 +2175,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-06-21T15:00:00.000Z",
     "display": {
@@ -1285,6 +2212,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2013-06-20T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -1311,6 +2247,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Plus MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
     },
     "date": "2013-06-20T15:00:00.000Z",
     "display": {
@@ -1339,6 +2284,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-06-20T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -1365,6 +2319,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-06-18T15:00:00.000Z",
     "display": {
@@ -1393,6 +2356,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-06-14T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -1419,6 +2391,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 65536
     },
     "date": "2013-06-06T15:00:00.000Z",
     "display": {
@@ -1447,6 +2428,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-05-31T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -1473,6 +2463,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
     },
     "date": "2013-05-24T15:00:00.000Z",
     "display": {
@@ -1501,6 +2500,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-05-23T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -1527,6 +2535,15 @@
     "os": {
       "type": "android",
       "ver": "4.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 600 APQ8064T",
+      "freq": 1.9,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-05-22T15:00:00.000Z",
     "display": {
@@ -1555,6 +2572,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-05-16T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -1581,6 +2607,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
     },
     "date": "2013-05-09T15:00:00.000Z",
     "display": {
@@ -1609,6 +2644,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Hisilicom K3V2",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-05-07T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -1635,6 +2679,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2013-04-17T15:00:00.000Z",
     "display": {
@@ -1663,6 +2716,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-04-03T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -1689,6 +2751,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-03-07T15:00:00.000Z",
     "display": {
@@ -1717,6 +2788,15 @@
       "type": "ios",
       "ver": "7.1"
     },
+    "cpu": {
+      "name": "Apple A5",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 16384
+    },
     "date": "2013-03-06T15:00:00.000Z",
     "display": {
       "w": 640,
@@ -1743,6 +2823,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "HiSilicon K3V2",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
     },
     "date": "2013-03-06T15:00:00.000Z",
     "display": {
@@ -1771,6 +2860,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2013-02-28T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -1797,6 +2895,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-02-28T15:00:00.000Z",
     "display": {
@@ -1825,6 +2932,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "NVIDIA Tegra3",
+      "freq": 1.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2013-02-21T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -1851,6 +2967,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-02-15T15:00:00.000Z",
     "display": {
@@ -1879,6 +3004,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2013-02-14T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -1905,6 +3039,15 @@
     "os": {
       "type": "android",
       "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
     },
     "date": "2013-02-08T15:00:00.000Z",
     "display": {
@@ -1933,6 +3076,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2013-01-31T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -1959,6 +3111,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2013-01-29T15:00:00.000Z",
     "display": {
@@ -1987,6 +3148,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2013-01-24T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -2013,6 +3183,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
     },
     "date": "2013-01-24T15:00:00.000Z",
     "display": {
@@ -2041,6 +3220,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-12-20T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -2067,6 +3255,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-12-20T15:00:00.000Z",
     "display": {
@@ -2095,6 +3292,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-12-20T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -2121,6 +3327,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-12-20T15:00:00.000Z",
     "display": {
@@ -2149,6 +3364,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2012-12-13T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -2175,6 +3399,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2012-12-13T15:00:00.000Z",
     "display": {
@@ -2203,6 +3436,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
     "date": "2012-12-08T15:00:00.000Z",
     "display": {
       "w": 1080,
@@ -2230,6 +3472,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-12-07T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -2255,7 +3506,16 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.1"
+      "ver": "4.3"
+    },
+    "cpu": {
+      "name": "Samsung Exynos4412",
+      "freq": 1.6,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2012-12-04T15:00:00.000Z",
     "display": {
@@ -2284,6 +3544,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-11-30T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -2310,6 +3579,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2012-11-28T15:00:00.000Z",
     "display": {
@@ -2338,6 +3616,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "NVIDIA Tegra3",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 65536
+    },
     "date": "2012-11-27T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -2365,6 +3652,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-11-20T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -2390,7 +3686,16 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.1"
+      "ver": "4.3"
+    },
+    "cpu": {
+      "name": "Samsung Exynos4412",
+      "freq": 1.6,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2012-11-15T15:00:00.000Z",
     "display": {
@@ -2417,6 +3722,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2012-11-15T15:00:00.000Z",
     "display": {
@@ -2445,6 +3759,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-11-08T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -2471,6 +3794,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2012-11-01T15:00:00.000Z",
     "display": {
@@ -2499,6 +3831,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-11-01T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -2525,6 +3866,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2012-11-01T15:00:00.000Z",
     "display": {
@@ -2553,6 +3903,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
     "date": "2012-11-01T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -2579,6 +3938,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2012-11-01T15:00:00.000Z",
     "display": {
@@ -2607,6 +3975,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
     "date": "2012-11-01T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -2633,6 +4010,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-11-01T15:00:00.000Z",
     "display": {
@@ -2661,6 +4047,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-10-25T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -2687,6 +4082,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8064",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
     },
     "date": "2012-10-18T15:00:00.000Z",
     "display": {
@@ -2715,6 +4119,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2012-10-09T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -2741,6 +4154,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2012-10-04T15:00:00.000Z",
     "display": {
@@ -2769,6 +4191,15 @@
       "type": "ios",
       "ver": "7.1"
     },
+    "cpu": {
+      "name": "Apple A6",
+      "freq": 1.3,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 65536
+    },
     "date": "2012-09-20T15:00:00.000Z",
     "display": {
       "w": 640,
@@ -2795,6 +4226,15 @@
     "os": {
       "type": "ios",
       "ver": "7.1"
+    },
+    "cpu": {
+      "name": "Apple A6",
+      "freq": 1.3,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 65536
     },
     "date": "2012-09-20T15:00:00.000Z",
     "display": {
@@ -2823,6 +4263,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2012-09-06T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -2849,6 +4298,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-08-29T15:00:00.000Z",
     "display": {
@@ -2877,6 +4335,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8060",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
+    },
     "date": "2012-08-29T15:00:00.000Z",
     "display": {
       "w": 768,
@@ -2903,6 +4370,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "ルネサス R-Mobile APE5R",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2012-08-22T15:00:00.000Z",
     "display": {
@@ -2931,6 +4407,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 2048
+    },
     "date": "2012-08-14T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -2957,6 +4442,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-08-09T15:00:00.000Z",
     "display": {
@@ -2985,6 +4479,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-08-09T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -3011,6 +4514,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2012-08-08T15:00:00.000Z",
     "display": {
@@ -3039,6 +4551,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8060",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
+    },
     "date": "2012-08-02T15:00:00.000Z",
     "display": {
       "w": 768,
@@ -3065,6 +4586,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
     },
     "date": "2012-07-31T15:00:00.000Z",
     "display": {
@@ -3093,6 +4623,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-07-27T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -3119,6 +4658,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-07-25T15:00:00.000Z",
     "display": {
@@ -3147,6 +4695,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "NVIDIA Tegra 3 AP33",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-07-19T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -3173,6 +4730,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-07-19T15:00:00.000Z",
     "display": {
@@ -3201,6 +4767,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "NVIDIA Tegra 3 AP33",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-07-19T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -3227,6 +4802,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
     },
     "date": "2012-07-13T15:00:00.000Z",
     "display": {
@@ -3255,6 +4839,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-07-12T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -3281,6 +4874,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4460",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-07-11T15:00:00.000Z",
     "display": {
@@ -3309,6 +4911,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2012-07-11T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -3335,6 +4946,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8260A",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
     },
     "date": "2012-07-05T15:00:00.000Z",
     "display": {
@@ -3363,6 +4983,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2012-07-05T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -3389,6 +5018,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-06-29T15:00:00.000Z",
     "display": {
@@ -3417,6 +5055,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-06-28T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -3443,6 +5090,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4460",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-06-28T15:00:00.000Z",
     "display": {
@@ -3471,6 +5127,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8660A",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-06-27T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -3497,6 +5162,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
     },
     "date": "2012-06-27T15:00:00.000Z",
     "display": {
@@ -3525,6 +5199,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 2048
+    },
     "date": "2012-06-26T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -3551,6 +5234,15 @@
     "os": {
       "type": "android",
       "ver": "4.1"
+    },
+    "cpu": {
+      "name": "ルネサス R-Mobile APE5R",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 2048
     },
     "date": "2012-06-20T15:00:00.000Z",
     "display": {
@@ -3579,6 +5271,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4460",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2012-06-13T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -3605,6 +5306,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
     },
     "date": "2012-06-06T15:00:00.000Z",
     "display": {
@@ -3633,6 +5343,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2012-05-29T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -3659,6 +5378,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8660A",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2012-05-24T15:00:00.000Z",
     "display": {
@@ -3687,6 +5415,15 @@
       "type": "android",
       "ver": "4.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8060",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-04-05T15:00:00.000Z",
     "display": {
       "w": 800,
@@ -3713,6 +5450,15 @@
     "os": {
       "type": "blackberry",
       "ver": "7.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1.2,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 768,
+      "rom": 8192
     },
     "date": "2012-03-29T15:00:00.000Z",
     "display": {
@@ -3741,6 +5487,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-03-28T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -3767,6 +5522,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2012-03-22T15:00:00.000Z",
     "display": {
@@ -3795,6 +5559,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4460",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-03-22T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -3821,6 +5594,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2012-03-21T15:00:00.000Z",
     "display": {
@@ -3849,6 +5631,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8260",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-03-14T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -3875,6 +5666,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8660",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2012-03-09T15:00:00.000Z",
     "display": {
@@ -3903,6 +5703,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8260",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2012-03-07T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -3929,6 +5738,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8260",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2012-03-02T15:00:00.000Z",
     "display": {
@@ -3957,6 +5775,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-02-29T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -3983,6 +5810,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8260",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
     },
     "date": "2012-02-29T15:00:00.000Z",
     "display": {
@@ -4011,6 +5847,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4460",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-02-23T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -4037,6 +5882,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8260",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
     },
     "date": "2012-02-23T15:00:00.000Z",
     "display": {
@@ -4065,6 +5919,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2012-02-21T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -4091,6 +5954,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 4096
     },
     "date": "2012-02-16T15:00:00.000Z",
     "display": {
@@ -4119,6 +5991,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8060",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-02-14T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -4145,6 +6026,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2012-02-13T15:00:00.000Z",
     "display": {
@@ -4173,6 +6063,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
+    },
     "date": "2012-02-02T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -4199,6 +6098,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "ルネサス R-Mobile APE5R",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2012-01-26T15:00:00.000Z",
     "display": {
@@ -4227,6 +6135,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-01-25T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -4253,6 +6170,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2012-01-19T15:00:00.000Z",
     "display": {
@@ -4281,6 +6207,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2253
+    },
     "date": "2012-01-19T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -4307,6 +6242,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "NVIDIA Tegra 2 AP25H",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
     },
     "date": "2012-01-19T15:00:00.000Z",
     "display": {
@@ -4335,6 +6279,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Samsung Exynos4210",
+      "freq": 1.4,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2012-01-19T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -4361,6 +6314,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2012-01-19T15:00:00.000Z",
     "display": {
@@ -4389,6 +6351,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2012-01-19T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -4415,6 +6386,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 2048
     },
     "date": "2012-01-13T15:00:00.000Z",
     "display": {
@@ -4443,6 +6423,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2012-01-06T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -4469,6 +6458,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2011-12-22T15:00:00.000Z",
     "display": {
@@ -4497,6 +6495,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
+    },
     "date": "2011-12-22T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -4523,6 +6530,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 2048
     },
     "date": "2011-12-22T15:00:00.000Z",
     "display": {
@@ -4551,6 +6567,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 4096
+    },
     "date": "2011-12-21T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -4577,6 +6602,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
     },
     "date": "2011-12-16T15:00:00.000Z",
     "display": {
@@ -4605,6 +6639,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
     "date": "2011-12-16T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -4631,6 +6674,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
     },
     "date": "2011-12-15T15:00:00.000Z",
     "display": {
@@ -4659,6 +6711,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8060",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2011-12-14T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -4685,6 +6746,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2011-12-08T15:00:00.000Z",
     "display": {
@@ -4713,6 +6783,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
+    },
     "date": "2011-12-06T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -4739,6 +6818,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1229
     },
     "date": "2011-12-01T15:00:00.000Z",
     "display": {
@@ -4767,6 +6855,15 @@
       "type": "android",
       "ver": "4.2"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4460",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2011-12-01T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -4793,6 +6890,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 2048
     },
     "date": "2011-12-01T15:00:00.000Z",
     "display": {
@@ -4821,6 +6927,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 4096
+    },
     "date": "2011-11-30T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -4847,6 +6962,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
     },
     "date": "2011-11-28T15:00:00.000Z",
     "display": {
@@ -4875,6 +6999,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-11-24T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -4901,6 +7034,15 @@
     "os": {
       "type": "android",
       "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon APQ8060",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2011-11-23T15:00:00.000Z",
     "display": {
@@ -4929,6 +7071,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1229
+    },
     "date": "2011-11-17T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -4955,6 +7106,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 4096
     },
     "date": "2011-11-17T15:00:00.000Z",
     "display": {
@@ -4983,6 +7143,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2011-11-17T15:00:00.000Z",
     "display": {
       "w": 720,
@@ -5009,6 +7178,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2011-11-09T15:00:00.000Z",
     "display": {
@@ -5037,6 +7215,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-10-27T15:00:00.000Z",
     "display": {
       "w": 320,
@@ -5063,6 +7250,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 16384
     },
     "date": "2011-10-25T15:00:00.000Z",
     "display": {
@@ -5091,6 +7287,15 @@
       "type": "ios",
       "ver": "7.1"
     },
+    "cpu": {
+      "name": "Apple A5",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 65536
+    },
     "date": "2011-10-13T15:00:00.000Z",
     "display": {
       "w": 640,
@@ -5117,6 +7322,15 @@
     "os": {
       "type": "ios",
       "ver": "7.1"
+    },
+    "cpu": {
+      "name": "Apple A5",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 65536
     },
     "date": "2011-10-13T15:00:00.000Z",
     "display": {
@@ -5145,6 +7359,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
+    },
     "date": "2011-10-07T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -5171,6 +7394,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Nvidia Tegra 2 T250",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
     },
     "date": "2011-10-06T15:00:00.000Z",
     "display": {
@@ -5199,6 +7431,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8660",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
     "date": "2011-10-06T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -5225,6 +7466,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2011-09-22T15:00:00.000Z",
     "display": {
@@ -5253,6 +7503,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-09-21T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5279,6 +7538,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2011-09-21T15:00:00.000Z",
     "display": {
@@ -5307,6 +7575,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm MSM7227T",
+      "freq": 0.8,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 512
+    },
     "date": "2011-09-21T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5333,6 +7610,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2011-09-15T15:00:00.000Z",
     "display": {
@@ -5361,6 +7647,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-09-08T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5387,6 +7682,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2011-09-08T15:00:00.000Z",
     "display": {
@@ -5415,6 +7719,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-08-26T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5441,6 +7754,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2011-08-25T15:00:00.000Z",
     "display": {
@@ -5469,6 +7791,15 @@
       "type": "windowsphone",
       "ver": "7.8"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 32768
+    },
     "date": "2011-08-24T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5495,6 +7826,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 4096
     },
     "date": "2011-08-16T15:00:00.000Z",
     "display": {
@@ -5523,6 +7863,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Texas Instruments OMAP3630",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-08-12T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5549,6 +7898,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP3630",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2011-08-11T15:00:00.000Z",
     "display": {
@@ -5577,6 +7935,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-08-06T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5603,6 +7970,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2011-08-05T15:00:00.000Z",
     "display": {
@@ -5631,6 +8007,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-07-21T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5657,6 +8042,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM7227",
+      "freq": 0.6,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 512
     },
     "date": "2011-07-13T15:00:00.000Z",
     "display": {
@@ -5685,6 +8079,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-07-13T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5711,6 +8114,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2011-07-08T15:00:00.000Z",
     "display": {
@@ -5739,6 +8151,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
+    },
     "date": "2011-06-29T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -5765,6 +8186,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2011-06-28T15:00:00.000Z",
     "display": {
@@ -5793,6 +8223,15 @@
       "type": "blackberry",
       "ver": "6.0"
     },
+    "cpu": {
+      "name": "Marvell PXA930",
+      "freq": 0.6,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 512
+    },
     "date": "2011-06-28T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5819,6 +8258,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2011-06-23T15:00:00.000Z",
     "display": {
@@ -5847,6 +8295,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
+    },
     "date": "2011-06-23T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -5873,6 +8330,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2011-06-23T15:00:00.000Z",
     "display": {
@@ -5901,6 +8367,15 @@
       "type": "android",
       "ver": "4.0"
     },
+    "cpu": {
+      "name": "Samsung S5PC210",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
     "date": "2011-06-22T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5927,6 +8402,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP3630",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 4096
     },
     "date": "2011-06-17T15:00:00.000Z",
     "display": {
@@ -5955,6 +8439,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-06-16T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -5981,6 +8474,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1536
     },
     "date": "2011-06-03T15:00:00.000Z",
     "display": {
@@ -6009,6 +8511,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
+    },
     "date": "2011-05-19T15:00:00.000Z",
     "display": {
       "w": 540,
@@ -6035,6 +8546,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8650",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2011-04-14T15:00:00.000Z",
     "display": {
@@ -6063,6 +8583,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-03-23T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6089,6 +8618,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM7230",
+      "freq": 0.8,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2011-03-14T15:00:00.000Z",
     "display": {
@@ -6117,6 +8655,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-03-09T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6143,6 +8690,15 @@
     "os": {
       "type": "android",
       "ver": "2.2"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM7227",
+      "freq": 0.6,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 256
     },
     "date": "2011-03-05T15:00:00.000Z",
     "display": {
@@ -6171,6 +8727,15 @@
       "type": "android",
       "ver": "2.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-02-24T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6197,6 +8762,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2011-02-17T15:00:00.000Z",
     "display": {
@@ -6225,6 +8799,15 @@
       "type": "android",
       "ver": "2.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8650",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2011-02-09T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6251,6 +8834,15 @@
     "os": {
       "type": "android",
       "ver": "2.2"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM7200A",
+      "freq": 0.5,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 512
     },
     "date": "2011-01-13T15:00:00.000Z",
     "display": {
@@ -6279,6 +8871,15 @@
       "type": "android",
       "ver": "2.2"
     },
+    "cpu": {
+      "name": "Qualcomm MSM7225",
+      "freq": 0.528,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 512
+    },
     "date": "2010-12-24T15:00:00.000Z",
     "display": {
       "w": 240,
@@ -6305,6 +8906,15 @@
     "os": {
       "type": "android",
       "ver": "2.2"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM7227-1",
+      "freq": 0.6,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 512
     },
     "date": "2010-12-23T15:00:00.000Z",
     "display": {
@@ -6333,6 +8943,15 @@
       "type": "android",
       "ver": "2.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8650",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2010-12-22T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6359,6 +8978,15 @@
     "os": {
       "type": "android",
       "ver": "2.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2560
     },
     "date": "2010-12-20T15:00:00.000Z",
     "display": {
@@ -6387,6 +9015,15 @@
       "type": "android",
       "ver": "2.2"
     },
+    "cpu": {
+      "name": "Qualcomm MSM7227",
+      "freq": 0.6,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 384,
+      "rom": 512
+    },
     "date": "2010-12-16T15:00:00.000Z",
     "display": {
       "w": 320,
@@ -6413,6 +9050,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2010-12-16T15:00:00.000Z",
     "display": {
@@ -6441,6 +9087,15 @@
       "type": "android",
       "ver": "2.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
     "date": "2010-12-16T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6467,6 +9122,15 @@
     "os": {
       "type": "android",
       "ver": "2.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2010-12-02T15:00:00.000Z",
     "display": {
@@ -6495,6 +9159,15 @@
       "type": "blackberry",
       "ver": "5.0"
     },
+    "cpu": {
+      "name": "Marvell PXA930",
+      "freq": 0.6,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 256
+    },
     "date": "2010-11-30T15:00:00.000Z",
     "display": {
       "w": 320,
@@ -6521,6 +9194,15 @@
     "os": {
       "type": "android",
       "ver": "2.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8650",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 512
     },
     "date": "2010-11-25T15:00:00.000Z",
     "display": {
@@ -6549,6 +9231,15 @@
       "type": "android",
       "ver": "2.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 768,
+      "rom": 1536
+    },
     "date": "2010-11-11T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6575,6 +9266,15 @@
     "os": {
       "type": "android",
       "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Samsung S5PC110",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 16896
     },
     "date": "2010-10-27T15:00:00.000Z",
     "display": {
@@ -6603,6 +9303,15 @@
       "type": "android",
       "ver": "2.2"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 576,
+      "rom": 512
+    },
     "date": "2010-10-01T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6629,6 +9338,15 @@
     "os": {
       "type": "blackberry",
       "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Marvell PXA930",
+      "freq": 0.6,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 256
     },
     "date": "2010-07-29T15:00:00.000Z",
     "display": {
@@ -6657,6 +9375,15 @@
       "type": "android",
       "ver": "1.6"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 4608
+    },
     "date": "2010-07-22T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6683,6 +9410,15 @@
     "os": {
       "type": "android",
       "ver": "1.6"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8650",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 4096
     },
     "date": "2010-06-29T15:00:00.000Z",
     "display": {
@@ -6711,6 +9447,15 @@
       "type": "ios",
       "ver": "7.1"
     },
+    "cpu": {
+      "name": "Apple A4",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 32768
+    },
     "date": "2010-06-23T15:00:00.000Z",
     "display": {
       "w": 640,
@@ -6737,6 +9482,15 @@
     "os": {
       "type": "windowsmobile",
       "ver": "6.5.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8650",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 384,
+      "rom": 512
     },
     "date": "2010-06-23T15:00:00.000Z",
     "display": {
@@ -6765,6 +9519,15 @@
       "type": "windowsmobile",
       "ver": "6.5.3"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 384,
+      "rom": 512
+    },
     "date": "2010-06-17T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6791,6 +9554,15 @@
     "os": {
       "type": "android",
       "ver": "2.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 576,
+      "rom": 512
     },
     "date": "2010-04-26T15:00:00.000Z",
     "display": {
@@ -6819,6 +9591,15 @@
       "type": "android",
       "ver": "2.1"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 1024
+    },
     "date": "2010-03-31T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -6845,6 +9626,15 @@
     "os": {
       "type": "windowsmobile",
       "ver": "6.5"
+    },
+    "cpu": {
+      "name": "Samsung S3C6410",
+      "freq": 0.8,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 512
     },
     "date": "2010-02-25T15:00:00.000Z",
     "display": {
@@ -6873,6 +9663,15 @@
       "type": "windowsmobile",
       "ver": "6.5"
     },
+    "cpu": {
+      "name": "Qualcomm MSM7225",
+      "freq": 0.5,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 256
+    },
     "date": "2009-12-17T15:00:00.000Z",
     "display": {
       "w": 320,
@@ -6899,6 +9698,15 @@
     "os": {
       "type": "windowsmobile",
       "ver": "6.5"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 512
     },
     "date": "2009-12-10T15:00:00.000Z",
     "display": {
@@ -6927,6 +9735,15 @@
       "type": "android",
       "ver": "1.6"
     },
+    "cpu": {
+      "name": "Qualcomm MSM7201A",
+      "freq": 0.5,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 192,
+      "rom": 512
+    },
     "date": "2009-07-09T15:00:00.000Z",
     "display": {
       "w": 320,
@@ -6953,6 +9770,15 @@
     "os": {
       "type": "ios",
       "ver": "6.1.6"
+    },
+    "cpu": {
+      "name": "Samsung S5PC100",
+      "freq": 0.6,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 32768
     },
     "date": "2009-06-25T15:00:00.000Z",
     "display": {
@@ -6981,6 +9807,15 @@
       "type": "windowsmobile",
       "ver": "6.5"
     },
+    "cpu": {
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 512
+    },
     "date": "2009-06-19T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -7007,6 +9842,15 @@
     "os": {
       "type": "windowsmobile",
       "ver": "6.1"
+    },
+    "cpu": {
+      "name": "ARM ARM11E",
+      "freq": 0.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 512
     },
     "date": "2009-04-30T15:00:00.000Z",
     "display": {
@@ -7035,6 +9879,15 @@
       "type": "blackberry",
       "ver": "5.0"
     },
+    "cpu": {
+      "name": "Marvell PXA930",
+      "freq": 0.6,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 128,
+      "rom": 1024
+    },
     "date": "2009-02-19T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -7061,6 +9914,15 @@
     "os": {
       "type": "windowsmobile",
       "ver": "6.1"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM7225",
+      "freq": 0.5,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 256,
+      "rom": 256
     },
     "date": "2008-12-19T15:00:00.000Z",
     "display": {
@@ -7089,6 +9951,15 @@
       "type": "windowsmobile",
       "ver": "6.1"
     },
+    "cpu": {
+      "name": "Qualcomm MSM7201A",
+      "freq": 0.5,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 192,
+      "rom": 256
+    },
     "date": "2008-12-18T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -7115,6 +9986,15 @@
     "os": {
       "type": "windowsmobile",
       "ver": "6.1"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM7201A",
+      "freq": 0.5,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 288,
+      "rom": 512
     },
     "date": "2008-12-04T15:00:00.000Z",
     "display": {
@@ -7143,6 +10023,15 @@
       "type": "windowsmobile",
       "ver": "6.1"
     },
+    "cpu": {
+      "name": "Qualcomm MSM7201A",
+      "freq": 0.5,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 288,
+      "rom": 512
+    },
     "date": "2008-11-27T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -7169,6 +10058,15 @@
     "os": {
       "type": "windowsmobile",
       "ver": "6.1"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM7201A",
+      "freq": 0.5,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 192,
+      "rom": 256
     },
     "date": "2008-11-07T15:00:00.000Z",
     "display": {
@@ -7197,6 +10095,15 @@
       "type": "windowsmobile",
       "ver": "6"
     },
+    "cpu": {
+      "name": "Qualcomm MSM7200",
+      "freq": 0.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 192,
+      "rom": 256
+    },
     "date": "2008-10-09T15:00:00.000Z",
     "display": {
       "w": 480,
@@ -7224,6 +10131,15 @@
       "type": "windowsmobile",
       "ver": "6"
     },
+    "cpu": {
+      "name": "Qualcomm MSM7200",
+      "freq": 0.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 128,
+      "rom": 256
+    },
     "date": "2008-07-18T15:00:00.000Z",
     "display": {
       "w": 240,
@@ -7250,6 +10166,15 @@
     "os": {
       "type": "windowsmobile",
       "ver": "6"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM7200",
+      "freq": 0.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 128,
+      "rom": 256
     },
     "date": "2008-03-27T15:00:00.000Z",
     "display": {
