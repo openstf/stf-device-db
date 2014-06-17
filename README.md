@@ -1,10 +1,15 @@
-stf-devices-db
-==============
+# stf-device-db
 
 Smartphone devices JSON-based database including devices thumbnails.
 
 Data is updated regularly from different sources.
 
+
+## Dependencies
+
+```bash
+brew install jpegoptim graphicsmagick
+```
 
 ## Data sources
 
@@ -14,9 +19,8 @@ Data is updated regularly from different sources.
 
 ### Japanese smartphones
 
-* Part of the data was obtained (with permission) from Ultrazone's [Smartphone Database](http://smartphone.ultra-zone.net/). 
+* Part of the data was obtained (with permission) from Ultrazone's [Smartphone Database](http://smartphone.ultra-zone.net/).
 * 一部のデータに関してはウルトラゾーン様の[スマートフォンデータベース](http://smartphone.ultra-zone.net/)より使用許可を頂いております。
-
 
 ## License
 
