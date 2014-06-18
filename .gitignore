@@ -7,6 +7,7 @@
 *.seed
 *.tgz
 /dist/
+/build/
 lib-cov
 logs
 npm-debug.log

@@ -1,21 +1,13 @@
-var publicData = require('./dist/devices-latest')
-var staticData = require('./static/devices-static')
+var data = require('./dist/devices-latest')
 var mapping = require('./mapping')
 
 module.exports.find = function(properties) {
-  var uniqueId = properties.model
-  var problem = mapping(properties)
+  var id = mapping(properties)
+    , match
 
-  if (problem) {
-    uniqueId = problem
-
-    if (staticData[uniqueId]) {
-      return staticData[uniqueId]
-    }
-  }
-
-  if (publicData[uniqueId]) {
-    return publicData[uniqueId]
+  if (id && (match = data[id])) {
+    match.image = match.image || id + '.jpg'
+    return match
   }
 
   return null

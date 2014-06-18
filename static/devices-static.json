@@ -1,35 +1,8 @@
 {
-  "Nexus_5|hammerhead": {
+  "Nexus_7_2012": {
     "name": {
-      "id": "Nexus 5",
-      "long": "Nexus 5"
-    },
-    "carrier": {
-      "code": "e",
-      "name": "イー・モバイル"
-    },
-    "maker": {
-      "code": "l",
-      "name": "LG"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.4"
-    },
-    "date": "2013-11-14T15:00:00.000Z",
-    "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 5
-    },
-    "image": {
-      "s": "small/Nexus_5|hammerhead.jpg"
-    }
-  },
-  "Nexus 7|nakasi": {
-    "name": {
-      "id": "Nexus 7",
-      "long": "Nexus 7"
+      "id": "Nexus 7 (2012)",
+      "long": "Nexus 7 (2012)"
     },
     "carrier": {
       "code": "d",
@@ -43,20 +16,26 @@
       "type": "android",
       "ver": "4.3"
     },
-    "date": "2012-09-25T15:00:00.000Z",
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8926",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2012-06-13T15:00:00.000Z",
     "display": {
       "w": 800,
       "h": 1280,
       "s": 7
-    },
-    "image": {
-      "s": "small/Nexus_7|nakasi.jpg"
     }
   },
-  "Nexus 7|razorg": {
+  "Nexus_7_2013": {
     "name": {
       "id": "Nexus 7 (2013)",
-      "long": "Nexus 7"
+      "long": "Nexus 7 (2013)"
     },
     "carrier": {
       "code": "d",
@@ -70,14 +49,20 @@
       "type": "android",
       "ver": "4.3"
     },
-    "date": "2013-08-28T15:00:00.000Z",
+    "cpu": {
+      "name": "Krait 300",
+      "freq": 1.51,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2013-06-26T15:00:00.000Z",
     "display": {
       "w": 1200,
       "h": 1920,
       "s": 7.02
-    },
-    "image": {
-      "s": "small/Nexus_7|razorg.jpg"
     }
   }
 }
