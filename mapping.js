@@ -10,9 +10,7 @@ module.exports = function(properties) {
           case 'razorg':
             return 'Nexus_7_2013'
         }
-        return null
-      case 'KYY22':
-        return 'L02'
+        return 'Nexus_7_2012'
       case 'SH-06DNERV':
         return 'SH-06D_NERV'
       default:
