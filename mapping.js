@@ -13,6 +13,8 @@ module.exports = function(properties) {
         return 'Nexus_7_2012'
       case 'SH-06DNERV':
         return 'SH-06D_NERV'
+      case 'KYY23':
+        return 'L03'
       default:
         return properties.model.replace(/ /g, '_')
     }
