@@ -1,4 +1,37 @@
 {
+  "302KC": {
+    "name": {
+      "id": "DIGNO T",
+      "long": "302KC"
+    },
+    "carrier": {
+      "code": "y",
+      "name": "ワイモバイル"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8926",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 8192
+    },
+    "date": "2014-08-31T15:00:00.000Z",
+    "display": {
+      "w": 540,
+      "h": 960,
+      "s": 4.5
+    }
+  },
   "F-06F": {
     "name": {
       "id": "らくらくスマートフォン3",
@@ -65,37 +98,37 @@
       "s": 4.5
     }
   },
-  "L03": {
+  "302HW": {
     "name": {
-      "id": "URBANO",
-      "long": "L03"
+      "id": "STREAM S",
+      "long": "302HW"
     },
     "carrier": {
-      "code": "a",
-      "name": "au"
+      "code": "y",
+      "name": "ワイモバイル"
     },
     "maker": {
-      "code": "k",
-      "name": "京セラ"
+      "code": "hw",
+      "name": "Huawei"
     },
     "os": {
       "type": "android",
       "ver": "4.4"
     },
     "cpu": {
-      "name": "Qualcomm Snapdragon 801 MSM8974AB",
-      "freq": 2.3,
+      "name": "KIRIN910",
+      "freq": 1.6,
       "cores": 4
     },
     "memory": {
       "ram": 2048,
-      "rom": 16384
+      "rom": 8192
     },
-    "date": "2014-06-30T15:00:00.000Z",
+    "date": "2014-07-31T15:00:00.000Z",
     "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 5
+      "w": 720,
+      "h": 1280,
+      "s": 4.7
     }
   },
   "LGL24": {
@@ -124,11 +157,44 @@
       "ram": 2048,
       "rom": 32768
     },
-    "date": "2014-06-30T15:00:00.000Z",
+    "date": "2014-07-17T15:00:00.000Z",
     "display": {
       "w": 1440,
       "h": 2560,
       "s": 5.5
+    }
+  },
+  "L03": {
+    "name": {
+      "id": "URBANO",
+      "long": "L03"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-06-27T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
     }
   },
   "SO-04F": {
@@ -773,7 +839,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.2"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -938,7 +1004,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.2"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -1136,7 +1202,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.3"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -1202,7 +1268,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.2"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -1268,7 +1334,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.3"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -1301,7 +1367,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.3"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -2324,7 +2390,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.3"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 600 APQ8064T",
@@ -8461,7 +8527,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "2.2"
+      "ver": "2.3"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon MSM8255",
