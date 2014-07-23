@@ -4,11 +4,10 @@ Smartphone devices JSON-based database including devices thumbnails.
 
 Data is updated regularly from different sources.
 
-
 ## Dependencies
 
 ```bash
-brew install jpegoptim graphicsmagick
+brew install jq jpegoptim graphicsmagick
 ```
 
 ## Data sources

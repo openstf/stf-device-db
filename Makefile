@@ -24,7 +24,7 @@ dist: | build
 	mkdir -p $@
 
 dist/devices-latest.json: data/devices-latest.json static/devices-static.json | dist
-	jq -S -s '.[0] + .[1]' $^ > $@
+	jq -S -s '.[0] * .[1]' $^ > $@
 
 build:
 	mkdir -p $@
