@@ -32,72 +32,6 @@
       "s": 4.5
     }
   },
-  "F-06F": {
-    "name": {
-      "id": "らくらくスマートフォン3",
-      "long": "F-06F"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "f",
-      "name": "富士通"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.4"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon 400 MSM8926",
-      "freq": 1.2,
-      "cores": 4
-    },
-    "memory": {
-      "ram": 2048,
-      "rom": 8192
-    },
-    "date": "2014-07-31T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.5
-    }
-  },
-  "G01": {
-    "name": {
-      "id": "TORQUE",
-      "long": "G01"
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "k",
-      "name": "京セラ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.4"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon 400 MSM8928",
-      "freq": 1.4,
-      "cores": 4
-    },
-    "memory": {
-      "ram": 2048,
-      "rom": 16384
-    },
-    "date": "2014-07-31T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.5
-    }
-  },
   "302HW": {
     "name": {
       "id": "STREAM S",
@@ -129,6 +63,72 @@
       "w": 720,
       "h": 1280,
       "s": 4.7
+    }
+  },
+  "F-06F": {
+    "name": {
+      "id": "らくらくスマートフォン3",
+      "long": "F-06F"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "f",
+      "name": "富士通"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8926",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 8192
+    },
+    "date": "2014-07-25T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.5
+    }
+  },
+  "KYY24": {
+    "name": {
+      "id": "TORQUE",
+      "long": "G01"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8928",
+      "freq": 1.4,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-07-24T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.5
     }
   },
   "LGL24": {
@@ -164,7 +164,7 @@
       "s": 5.5
     }
   },
-  "L03": {
+  "KYY23": {
     "name": {
       "id": "URBANO",
       "long": "L03"
@@ -4717,7 +4717,7 @@
       "s": 4.7
     }
   },
-  "SH-06D_NERV": {
+  "SH-06DNERV": {
     "name": {
       "id": "SH-06D NERV",
       "long": ""
