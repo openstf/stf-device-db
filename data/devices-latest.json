@@ -1,4 +1,37 @@
 {
+  "306SH": {
+    "name": {
+      "id": "AQUOS CRYSTAL X",
+      "long": "306SH"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm、Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-11-30T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.5
+    }
+  },
   "302KC": {
     "name": {
       "id": "DIGNO T",
@@ -30,6 +63,72 @@
       "w": 540,
       "h": 960,
       "s": 4.5
+    }
+  },
+  "HTL23": {
+    "name": {
+      "id": "HTC J butterfly",
+      "long": "HTL23"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "ht",
+      "name": "HTC"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-08-28T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    }
+  },
+  "305SH": {
+    "name": {
+      "id": "AQUOS CRYSTAL",
+      "long": "305SH"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm、Snapdragon 400 MSM8926",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 8192
+    },
+    "date": "2014-08-28T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5
     }
   },
   "302HW": {
@@ -707,7 +806,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.2"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -1301,7 +1400,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.2"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -9434,6 +9533,101 @@
       "w": 1200,
       "h": 1920,
       "s": 7.02
+    }
+  },
+  "F-02F": {
+    "name": {
+      "id": "F-02F",
+      "long": "ARROWS Tab"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "f",
+      "name": "富士通"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "cpu": {
+      "name": "MSM8974",
+      "freq": "2.2",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 65536
+    },
+    "date": "2013-11-29T15:00:00.000Z",
+    "display": {
+      "w": 2560,
+      "h": 1600,
+      "s": 10.1
+    }
+  },
+  "AST21": {
+    "name": {
+      "id": "AST21",
+      "long": "ASUS MeMO Pad 8"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "os": "android",
+    "ver": "4.4.2",
+    "cpu": {
+      "name": "Intel Atom Z3580",
+      "freq": "2.3",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-08-22T15:00:00.000Z",
+    "display": {
+      "w": 1920,
+      "h": 1200,
+      "s": 8
+    }
+  },
+  "K013": {
+    "name": {
+      "id": "K013",
+      "long": "ASUS MeMO Pad 7"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "os": "android",
+    "ver": "4.4.2",
+    "cpu": {
+      "name": "Intel Atom Z3745",
+      "freq": "1.33",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "date": "2014-06-13T15:00:00.000Z",
+    "display": {
+      "w": 1280,
+      "h": 800,
+      "s": 7
     }
   }
 }
