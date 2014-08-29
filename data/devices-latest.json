@@ -9537,8 +9537,8 @@
   },
   "F-02F": {
     "name": {
-      "id": "F-02F",
-      "long": "ARROWS Tab"
+      "id": "ARROWS Tab",
+      "long": "F-02F"
     },
     "carrier": {
       "code": "d",
@@ -9570,8 +9570,8 @@
   },
   "AST21": {
     "name": {
-      "id": "AST21",
-      "long": "ASUS MeMO Pad 8"
+      "id": "ASUS MeMO Pad 8",
+      "long": "AST21"
     },
     "carrier": {
       "code": "a",
@@ -9603,8 +9603,8 @@
   },
   "K013": {
     "name": {
-      "id": "K013",
-      "long": "ASUS MeMO Pad 7"
+      "id": "ASUS MeMO Pad 7",
+      "long": "K013"
     },
     "carrier": {
       "code": "a",
@@ -9636,8 +9636,8 @@
   },
   "Flame": {
     "name": {
-      "id": "Flame",
-      "long": "Firefox Flame"
+      "id": "Firefox Flame",
+      "long": "Flame"
     },
     "maker": {
       "code": "m",
