@@ -9581,8 +9581,10 @@
       "code": "as",
       "name": "ASUS"
     },
-    "os": "android",
-    "ver": "4.4.2",
+    "os": {
+      "type": "android",
+      "ver": "4.4.2"
+    },
     "cpu": {
       "name": "Intel Atom Z3580",
       "freq": "2.3",
@@ -9612,8 +9614,10 @@
       "code": "as",
       "name": "ASUS"
     },
-    "os": "android",
-    "ver": "4.4.2",
+    "os": {
+      "type": "android",
+      "ver": "4.4.2"
+    },
     "cpu": {
       "name": "Intel Atom Z3745",
       "freq": "1.33",
@@ -9628,6 +9632,35 @@
       "w": 1280,
       "h": 800,
       "s": 7
+    }
+  },
+  "Flame": {
+    "name": {
+      "id": "Flame",
+      "long": "Firefox Flame"
+    },
+    "maker": {
+      "code": "m",
+      "name": "Mozilla"
+    },
+    "os": {
+      "type": "firefox",
+      "ver": "1.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8610",
+      "freq": "1.2",
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
+    },
+    "date": "2014-08-05T15:00:00.000Z",
+    "display": {
+      "w": 854,
+      "h": 480,
+      "s": 4.5
     }
   }
 }
