@@ -58,7 +58,7 @@
       "ram": 1536,
       "rom": 8192
     },
-    "date": "2014-08-31T15:00:00.000Z",
+    "date": "2014-09-10T15:00:00.000Z",
     "display": {
       "w": 540,
       "h": 960,
@@ -2390,7 +2390,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.2"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 600 APQ8064T",
@@ -9661,6 +9661,34 @@
       "w": 854,
       "h": 480,
       "s": 4.5
+    }
+  },
+  "SGP511": {
+    "name": {
+      "id": "Xperia Z2",
+      "long": "SGP511JP"
+    },
+    "maker": {
+      "name": "SONY"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.2"
+    },
+    "cpu": {
+      "name": "Snapdragon 801",
+      "freq": "2.3",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16384
+    },
+    "date": "2014-05-08T15:00:00.000Z",
+    "display": {
+      "w": 1920,
+      "h": 1200,
+      "s": 10.1
     }
   }
 }
