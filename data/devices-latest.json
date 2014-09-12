@@ -32,6 +32,204 @@
       "s": 5.5
     }
   },
+  "iPhone_6_Plus__": {
+    "name": {
+      "id": "iPhone 6 Plus",
+      "long": ""
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "8"
+    },
+    "cpu": {
+      "name": "Apple A8",
+      "freq": 1.4,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 131072
+    },
+    "date": "2014-09-18T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.5
+    }
+  },
+  "iPhone_6_Plus_": {
+    "name": {
+      "id": "iPhone 6 Plus",
+      "long": ""
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "8"
+    },
+    "cpu": {
+      "name": "Apple A8",
+      "freq": 1.4,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 131072
+    },
+    "date": "2014-09-18T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.5
+    }
+  },
+  "iPhone_6_Plus": {
+    "name": {
+      "id": "iPhone 6 Plus",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "8"
+    },
+    "cpu": {
+      "name": "Apple A8",
+      "freq": 1.4,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 131072
+    },
+    "date": "2014-09-18T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.5
+    }
+  },
+  "iPhone_6": {
+    "name": {
+      "id": "iPhone 6",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "8"
+    },
+    "cpu": {
+      "name": "Apple A8",
+      "freq": 1.4,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 131072
+    },
+    "date": "2014-09-18T15:00:00.000Z",
+    "display": {
+      "w": 750,
+      "h": 1334,
+      "s": 4.7
+    }
+  },
+  "iPhone_6__": {
+    "name": {
+      "id": "iPhone 6",
+      "long": ""
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "8"
+    },
+    "cpu": {
+      "name": "Apple A8",
+      "freq": 1.4,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 131072
+    },
+    "date": "2014-09-18T15:00:00.000Z",
+    "display": {
+      "w": 750,
+      "h": 1334,
+      "s": 4.7
+    }
+  },
+  "iPhone_6_": {
+    "name": {
+      "id": "iPhone 6",
+      "long": ""
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "8"
+    },
+    "cpu": {
+      "name": "Apple A8",
+      "freq": 1.4,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 131072
+    },
+    "date": "2014-09-18T15:00:00.000Z",
+    "display": {
+      "w": 750,
+      "h": 1334,
+      "s": 4.7
+    }
+  },
   "302KC": {
     "name": {
       "id": "DIGNO T",
@@ -461,39 +659,6 @@
       "s": 5
     }
   },
-  "304SH": {
-    "name": {
-      "id": "AQUOS Xx",
-      "long": "304SH"
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.4"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon 801 MSM8974AB",
-      "freq": 2.3,
-      "cores": 4
-    },
-    "memory": {
-      "ram": 2048,
-      "rom": 32768
-    },
-    "date": "2014-05-22T15:00:00.000Z",
-    "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 5.2
-    }
-  },
   "SH-04F": {
     "name": {
       "id": "AQUOS ZETA",
@@ -525,6 +690,39 @@
       "w": 1080,
       "h": 1920,
       "s": 5.4
+    }
+  },
+  "304SH": {
+    "name": {
+      "id": "AQUOS Xx",
+      "long": "304SH"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-05-22T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
     }
   },
   "SO-03F": {
@@ -560,14 +758,14 @@
       "s": 5.2
     }
   },
-  "SC-04F": {
+  "SCL23": {
     "name": {
       "id": "GALAXY S5",
-      "long": "SC-04F"
+      "long": "SCL23"
     },
     "carrier": {
-      "code": "d",
-      "name": "ドコモ"
+      "code": "a",
+      "name": "au"
     },
     "maker": {
       "code": "sc",
@@ -593,14 +791,14 @@
       "s": 5.1
     }
   },
-  "SCL23": {
+  "SC-04F": {
     "name": {
       "id": "GALAXY S5",
-      "long": "SCL23"
+      "long": "SC-04F"
     },
     "carrier": {
-      "code": "a",
-      "name": "au"
+      "code": "d",
+      "name": "ドコモ"
     },
     "maker": {
       "code": "sc",
@@ -1187,39 +1385,6 @@
       "s": 5
     }
   },
-  "SHL23": {
-    "name": {
-      "id": "AQUOS PHONE SERIE",
-      "long": "SHL23"
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.2"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon 800 MSM8974",
-      "freq": 2.2,
-      "cores": 4
-    },
-    "memory": {
-      "ram": 2048,
-      "rom": 16384
-    },
-    "date": "2013-11-14T15:00:00.000Z",
-    "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 4.8
-    }
-  },
   "Nexus_5": {
     "name": {
       "id": "Nexus 5",
@@ -1251,6 +1416,39 @@
       "w": 1080,
       "h": 1920,
       "s": 5
+    }
+  },
+  "SHL23": {
+    "name": {
+      "id": "AQUOS PHONE SERIE",
+      "long": "SHL23"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974",
+      "freq": 2.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2013-11-14T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 4.8
     }
   },
   "SH-01F": {
@@ -1319,22 +1517,22 @@
       "s": 5
     }
   },
-  "F-01F": {
+  "SO-01F": {
     "name": {
-      "id": "ARROWS NX",
-      "long": "F-01F"
+      "id": "Xperia Z1",
+      "long": "SO-01F"
     },
     "carrier": {
       "code": "d",
       "name": "ドコモ"
     },
     "maker": {
-      "code": "f",
-      "name": "富士通"
+      "code": "so",
+      "name": "ソニーモバイル"
     },
     "os": {
       "type": "android",
-      "ver": "4.2"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -1352,22 +1550,22 @@
       "s": 5
     }
   },
-  "SO-01F": {
+  "F-01F": {
     "name": {
-      "id": "Xperia Z1",
-      "long": "SO-01F"
+      "id": "ARROWS NX",
+      "long": "F-01F"
     },
     "carrier": {
       "code": "d",
       "name": "ドコモ"
     },
     "maker": {
-      "code": "so",
-      "name": "ソニーモバイル"
+      "code": "f",
+      "name": "富士通"
     },
     "os": {
       "type": "android",
-      "ver": "4.4"
+      "ver": "4.2"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -1418,14 +1616,14 @@
       "s": 5
     }
   },
-  "SC-01F": {
+  "SCL22": {
     "name": {
       "id": "GALAXY Note 3",
-      "long": "SC-01F"
+      "long": "SCL22"
     },
     "carrier": {
-      "code": "d",
-      "name": "ドコモ"
+      "code": "a",
+      "name": "au"
     },
     "maker": {
       "code": "sc",
@@ -1451,14 +1649,14 @@
       "s": 5.7
     }
   },
-  "SCL22": {
+  "SC-01F": {
     "name": {
       "id": "GALAXY Note 3",
-      "long": "SCL22"
+      "long": "SC-01F"
     },
     "carrier": {
-      "code": "a",
-      "name": "au"
+      "code": "d",
+      "name": "ドコモ"
     },
     "maker": {
       "code": "sc",
@@ -1550,72 +1748,6 @@
       "s": 4.3
     }
   },
-  "iPhone_5C___": {
-    "name": {
-      "id": "iPhone 5c",
-      "long": ""
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "a",
-      "name": "アップル"
-    },
-    "os": {
-      "type": "ios",
-      "ver": "7.1"
-    },
-    "cpu": {
-      "name": "Apple A6",
-      "freq": 1.25,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 32768
-    },
-    "date": "2013-09-19T15:00:00.000Z",
-    "display": {
-      "w": 640,
-      "h": 1136,
-      "s": 4
-    }
-  },
-  "iPhone_5C_": {
-    "name": {
-      "id": "iPhone 5c",
-      "long": ""
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "a",
-      "name": "アップル"
-    },
-    "os": {
-      "type": "ios",
-      "ver": "7.1"
-    },
-    "cpu": {
-      "name": "Apple A6",
-      "freq": 1.25,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 32768
-    },
-    "date": "2013-09-19T15:00:00.000Z",
-    "display": {
-      "w": 640,
-      "h": 1136,
-      "s": 4
-    }
-  },
   "iPhone_5S___": {
     "name": {
       "id": "iPhone 5s",
@@ -1682,39 +1814,6 @@
       "s": 4
     }
   },
-  "iPhone_5C": {
-    "name": {
-      "id": "iPhone 5c",
-      "long": ""
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "a",
-      "name": "アップル"
-    },
-    "os": {
-      "type": "ios",
-      "ver": "7.1"
-    },
-    "cpu": {
-      "name": "Apple A6",
-      "freq": 1.25,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 32768
-    },
-    "date": "2013-09-19T15:00:00.000Z",
-    "display": {
-      "w": 640,
-      "h": 1136,
-      "s": 4
-    }
-  },
   "iPhone_5S": {
     "name": {
       "id": "iPhone 5s",
@@ -1740,6 +1839,105 @@
     "memory": {
       "ram": 1024,
       "rom": 65536
+    },
+    "date": "2013-09-19T15:00:00.000Z",
+    "display": {
+      "w": 640,
+      "h": 1136,
+      "s": 4
+    }
+  },
+  "iPhone_5C___": {
+    "name": {
+      "id": "iPhone 5c",
+      "long": ""
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "7.1"
+    },
+    "cpu": {
+      "name": "Apple A6",
+      "freq": 1.25,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
+    },
+    "date": "2013-09-19T15:00:00.000Z",
+    "display": {
+      "w": 640,
+      "h": 1136,
+      "s": 4
+    }
+  },
+  "iPhone_5C_": {
+    "name": {
+      "id": "iPhone 5c",
+      "long": ""
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "7.1"
+    },
+    "cpu": {
+      "name": "Apple A6",
+      "freq": 1.25,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
+    },
+    "date": "2013-09-19T15:00:00.000Z",
+    "display": {
+      "w": 640,
+      "h": 1136,
+      "s": 4
+    }
+  },
+  "iPhone_5C": {
+    "name": {
+      "id": "iPhone 5c",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "7.1"
+    },
+    "cpu": {
+      "name": "Apple A6",
+      "freq": 1.25,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
     },
     "date": "2013-09-19T15:00:00.000Z",
     "display": {
@@ -2177,39 +2375,6 @@
       "s": 4.5
     }
   },
-  "205SH": {
-    "name": {
-      "id": "AQUOS PHONE ss",
-      "long": "205SH"
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.1"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8960",
-      "freq": 1.5,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 8192
-    },
-    "date": "2013-06-20T15:00:00.000Z",
-    "display": {
-      "w": 480,
-      "h": 854,
-      "s": 4
-    }
-  },
   "L01": {
     "name": {
       "id": "URBANO",
@@ -2241,6 +2406,39 @@
       "w": 720,
       "h": 1280,
       "s": 4.7
+    }
+  },
+  "205SH": {
+    "name": {
+      "id": "AQUOS PHONE ss",
+      "long": "205SH"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2013-06-20T15:00:00.000Z",
+    "display": {
+      "w": 480,
+      "h": 854,
+      "s": 4
     }
   },
   "SH-07E": {
@@ -2705,6 +2903,39 @@
       "s": 4.9
     }
   },
+  "GL07S": {
+    "name": {
+      "id": "STREAM X",
+      "long": "GL07S"
+    },
+    "carrier": {
+      "code": "e",
+      "name": "イー・モバイル"
+    },
+    "maker": {
+      "code": "hw",
+      "name": "Huawei"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
+    },
+    "cpu": {
+      "name": "HiSilicon K3V2",
+      "freq": 1.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 32768
+    },
+    "date": "2013-03-06T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.7
+    }
+  },
   "iPhone_4S__": {
     "name": {
       "id": "iPhone 4S",
@@ -2738,33 +2969,33 @@
       "s": 3.5
     }
   },
-  "GL07S": {
+  "N-04E": {
     "name": {
-      "id": "STREAM X",
-      "long": "GL07S"
+      "id": "MEDIAS X",
+      "long": "N-04E"
     },
     "carrier": {
-      "code": "e",
-      "name": "イー・モバイル"
+      "code": "d",
+      "name": "ドコモ"
     },
     "maker": {
-      "code": "hw",
-      "name": "Huawei"
+      "code": "n",
+      "name": "NEC"
     },
     "os": {
       "type": "android",
       "ver": "4.1"
     },
     "cpu": {
-      "name": "HiSilicon K3V2",
+      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
       "freq": 1.5,
       "cores": 4
     },
     "memory": {
-      "ram": 1024,
+      "ram": 2048,
       "rom": 32768
     },
-    "date": "2013-03-06T15:00:00.000Z",
+    "date": "2013-02-28T15:00:00.000Z",
     "display": {
       "w": 720,
       "h": 1280,
@@ -2802,39 +3033,6 @@
       "w": 720,
       "h": 1280,
       "s": 4.5
-    }
-  },
-  "N-04E": {
-    "name": {
-      "id": "MEDIAS X",
-      "long": "N-04E"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "n",
-      "name": "NEC"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.1"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon S4 Pro APQ8064",
-      "freq": 1.5,
-      "cores": 4
-    },
-    "memory": {
-      "ram": 2048,
-      "rom": 32768
-    },
-    "date": "2013-02-28T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.7
     }
   },
   "F-02E": {
@@ -2951,7 +3149,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.2"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon S4 Pro APQ8064",
@@ -3134,39 +3332,6 @@
       "s": 4.5
     }
   },
-  "N-02E_ONE_PIECE": {
-    "name": {
-      "id": "N-02E",
-      "long": "ONE PIECE"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "n",
-      "name": "NEC"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.1"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8960",
-      "freq": 1.5,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 8192
-    },
-    "date": "2012-12-20T15:00:00.000Z",
-    "display": {
-      "w": 480,
-      "h": 800,
-      "s": 4
-    }
-  },
   "L-02E": {
     "name": {
       "id": "Optimus LIFE",
@@ -3198,6 +3363,39 @@
       "w": 720,
       "h": 1280,
       "s": 4.5
+    }
+  },
+  "N-02E_ONE_PIECE": {
+    "name": {
+      "id": "N-02E",
+      "long": "ONE PIECE"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "n",
+      "name": "NEC"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2012-12-20T15:00:00.000Z",
+    "display": {
+      "w": 480,
+      "h": 800,
+      "s": 4
     }
   },
   "F-03E": {
@@ -3530,6 +3728,38 @@
       "s": 4.5
     }
   },
+  "SO-01E": {
+    "name": {
+      "id": "Xperia AX"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "date": "2012-11-15T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.3
+    }
+  },
   "SC-02E": {
     "name": {
       "id": "GALAXY Note II",
@@ -3561,38 +3791,6 @@
       "w": 720,
       "h": 1280,
       "s": 5.5
-    }
-  },
-  "SO-01E": {
-    "name": {
-      "id": "Xperia AX"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "so",
-      "name": "ソニーモバイル"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.1"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8960",
-      "freq": 1.5,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 16384
-    },
-    "date": "2012-11-15T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.3
     }
   },
   "KYL21": {
@@ -3628,72 +3826,6 @@
       "s": 4.7
     }
   },
-  "SHL21": {
-    "name": {
-      "id": "AQUOS PHONE SERIE",
-      "long": "SHL21"
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.1"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8960",
-      "freq": 1.5,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 16384
-    },
-    "date": "2012-11-01T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.7
-    }
-  },
-  "FJL21": {
-    "name": {
-      "id": "ARROWS ef",
-      "long": "FJL21"
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "f",
-      "name": "富士通"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.1"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8960",
-      "freq": 1.5,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 8192
-    },
-    "date": "2012-11-01T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.3
-    }
-  },
   "SOL21": {
     "name": {
       "id": "Xperia VL",
@@ -3725,39 +3857,6 @@
       "w": 720,
       "h": 1280,
       "s": 4.3
-    }
-  },
-  "SCL21": {
-    "name": {
-      "id": "GALAXY S III Progre",
-      "long": "SCL21"
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "sc",
-      "name": "サムスン"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.1"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8960",
-      "freq": 1.5,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 2048,
-      "rom": 32768
-    },
-    "date": "2012-11-01T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.8
     }
   },
   "PTL21": {
@@ -3857,6 +3956,105 @@
       "w": 480,
       "h": 800,
       "s": 4
+    }
+  },
+  "SCL21": {
+    "name": {
+      "id": "GALAXY S III Progre",
+      "long": "SCL21"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sc",
+      "name": "サムスン"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2012-11-01T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.8
+    }
+  },
+  "FJL21": {
+    "name": {
+      "id": "ARROWS ef",
+      "long": "FJL21"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "f",
+      "name": "富士通"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2012-11-01T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.3
+    }
+  },
+  "SHL21": {
+    "name": {
+      "id": "AQUOS PHONE SERIE",
+      "long": "SHL21"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "date": "2012-11-01T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.7
     }
   },
   "201M": {
@@ -4090,39 +4288,6 @@
       "s": 3.7
     }
   },
-  "SH-10D": {
-    "name": {
-      "id": "AQUOS PHONE sv",
-      "long": "SH-10D"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.1"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8960",
-      "freq": 1.5,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 8192
-    },
-    "date": "2012-08-29T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.5
-    }
-  },
   "L-06D_JOJO": {
     "name": {
       "id": "L-06D JOJO",
@@ -4154,6 +4319,39 @@
       "w": 768,
       "h": 1024,
       "s": 5
+    }
+  },
+  "SH-10D": {
+    "name": {
+      "id": "AQUOS PHONE sv",
+      "long": "SH-10D"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2012-08-29T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.5
     }
   },
   "WX06K": {
@@ -4222,39 +4420,6 @@
       "s": 3.7
     }
   },
-  "P-07D": {
-    "name": {
-      "id": "ELUGA power",
-      "long": "P-07D"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "p",
-      "name": "パナソニック"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.0"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8960",
-      "freq": 1.5,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 8192
-    },
-    "date": "2012-08-09T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 5
-    }
-  },
   "SO-05D": {
     "name": {
       "id": "Xperia SX",
@@ -4286,6 +4451,39 @@
       "w": 540,
       "h": 960,
       "s": 3.7
+    }
+  },
+  "P-07D": {
+    "name": {
+      "id": "ELUGA power",
+      "long": "P-07D"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "p",
+      "name": "パナソニック"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8960",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2012-08-09T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5
     }
   },
   "SO-04D": {
@@ -4486,39 +4684,6 @@
       "s": 4.6
     }
   },
-  "IS17SH": {
-    "name": {
-      "id": "AQUOS PHONE CL",
-      "long": "IS17SH"
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.0"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8655",
-      "freq": 1.4,
-      "cores": 1
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 8192
-    },
-    "date": "2012-07-19T15:00:00.000Z",
-    "display": {
-      "w": 540,
-      "h": 960,
-      "s": 4.2
-    }
-  },
   "F-10D": {
     "name": {
       "id": "ARROWS X",
@@ -4550,6 +4715,39 @@
       "w": 720,
       "h": 1280,
       "s": 4.6
+    }
+  },
+  "IS17SH": {
+    "name": {
+      "id": "AQUOS PHONE CL",
+      "long": "IS17SH"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2012-07-19T15:00:00.000Z",
+    "display": {
+      "w": 540,
+      "h": 960,
+      "s": 4.2
     }
   },
   "107SH": {
@@ -4783,39 +4981,6 @@
       "s": 4
     }
   },
-  "SH-09D": {
-    "name": {
-      "id": "AQUOS PHONE ZETA",
-      "long": "SH-09D"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.1"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8960",
-      "freq": 1.5,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 16384
-    },
-    "date": "2012-06-28T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.7
-    }
-  },
   "SH-06DNERV": {
     "name": {
       "id": "SH-06D NERV",
@@ -4849,14 +5014,14 @@
       "s": 4.5
     }
   },
-  "ISW16SH": {
+  "SH-09D": {
     "name": {
-      "id": "AQUOS PHONE SERIE",
-      "long": "ISW16SH"
+      "id": "AQUOS PHONE ZETA",
+      "long": "SH-09D"
     },
     "carrier": {
-      "code": "a",
-      "name": "au"
+      "code": "d",
+      "name": "ドコモ"
     },
     "maker": {
       "code": "sh",
@@ -4864,10 +5029,10 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.0"
+      "ver": "4.1"
     },
     "cpu": {
-      "name": "Qualcomm Snapdragon MSM8660A",
+      "name": "Qualcomm Snapdragon MSM8960",
       "freq": 1.5,
       "cores": 2
     },
@@ -4875,11 +5040,11 @@
       "ram": 1024,
       "rom": 16384
     },
-    "date": "2012-06-27T15:00:00.000Z",
+    "date": "2012-06-28T15:00:00.000Z",
     "display": {
       "w": 720,
       "h": 1280,
-      "s": 4.6
+      "s": 4.7
     }
   },
   "SC-06D": {
@@ -4913,6 +5078,39 @@
       "w": 720,
       "h": 1280,
       "s": 4.8
+    }
+  },
+  "ISW16SH": {
+    "name": {
+      "id": "AQUOS PHONE SERIE",
+      "long": "ISW16SH"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8660A",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "date": "2012-06-27T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.6
     }
   },
   "F-09D": {
@@ -5212,39 +5410,6 @@
       "s": 4.3
     }
   },
-  "102P": {
-    "name": {
-      "id": "102P",
-      "long": ""
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "p",
-      "name": "パナソニック"
-    },
-    "os": {
-      "type": "android",
-      "ver": "2.3"
-    },
-    "cpu": {
-      "name": "Texas Instruments OMAP4430",
-      "freq": 1,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 16384
-    },
-    "date": "2012-03-22T15:00:00.000Z",
-    "display": {
-      "w": 540,
-      "h": 960,
-      "s": 4.3
-    }
-  },
   "SH-06D": {
     "name": {
       "id": "AQUOS PHONE",
@@ -5276,6 +5441,39 @@
       "w": 720,
       "h": 1280,
       "s": 4.5
+    }
+  },
+  "102P": {
+    "name": {
+      "id": "102P",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "p",
+      "name": "パナソニック"
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "date": "2012-03-22T15:00:00.000Z",
+    "display": {
+      "w": 540,
+      "h": 960,
+      "s": 4.3
     }
   },
   "P-05D": {
@@ -5509,39 +5707,6 @@
       "s": 4.3
     }
   },
-  "104SH": {
-    "name": {
-      "id": "AQUOS PHONE",
-      "long": "104SH"
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.0"
-    },
-    "cpu": {
-      "name": "Texas Instruments OMAP4460",
-      "freq": 1.5,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 16384
-    },
-    "date": "2012-02-23T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.5
-    }
-  },
   "SO-02D": {
     "name": {
       "id": "Xperia NX",
@@ -5573,6 +5738,39 @@
       "w": 720,
       "h": 1280,
       "s": 4.3
+    }
+  },
+  "104SH": {
+    "name": {
+      "id": "AQUOS PHONE",
+      "long": "104SH"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4460",
+      "freq": 1.5,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "date": "2012-02-23T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.5
     }
   },
   "F-08D": {
@@ -5806,72 +6004,6 @@
       "s": 4.3
     }
   },
-  "101N": {
-    "name": {
-      "id": "MEDIAS CH",
-      "long": "101N"
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "n",
-      "name": "NEC"
-    },
-    "os": {
-      "type": "android",
-      "ver": "2.3"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8255",
-      "freq": 1.4,
-      "cores": 1
-    },
-    "memory": {
-      "ram": 512,
-      "rom": 2048
-    },
-    "date": "2012-01-19T15:00:00.000Z",
-    "display": {
-      "w": 480,
-      "h": 800,
-      "s": 4
-    }
-  },
-  "103SH": {
-    "name": {
-      "id": "AQUOS PHONE",
-      "long": "103SH"
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "2.3"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8255",
-      "freq": 1.4,
-      "cores": 1
-    },
-    "memory": {
-      "ram": 512,
-      "rom": 2253
-    },
-    "date": "2012-01-19T15:00:00.000Z",
-    "display": {
-      "w": 540,
-      "h": 960,
-      "s": 4
-    }
-  },
   "IS11LG": {
     "name": {
       "id": "optimus X",
@@ -5897,6 +6029,39 @@
     "memory": {
       "ram": 1024,
       "rom": 4096
+    },
+    "date": "2012-01-19T15:00:00.000Z",
+    "display": {
+      "w": 480,
+      "h": 800,
+      "s": 4
+    }
+  },
+  "101N": {
+    "name": {
+      "id": "MEDIAS CH",
+      "long": "101N"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "n",
+      "name": "NEC"
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
     },
     "date": "2012-01-19T15:00:00.000Z",
     "display": {
@@ -6004,6 +6169,39 @@
       "s": 4
     }
   },
+  "103SH": {
+    "name": {
+      "id": "AQUOS PHONE",
+      "long": "103SH"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2253
+    },
+    "date": "2012-01-19T15:00:00.000Z",
+    "display": {
+      "w": 540,
+      "h": 960,
+      "s": 4
+    }
+  },
   "101P": {
     "name": {
       "id": "LUMIX Phone",
@@ -6070,39 +6268,6 @@
       "s": 4
     }
   },
-  "IS14SH": {
-    "name": {
-      "id": "AQUOS PHONE",
-      "long": "IS14SH"
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "2.3"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8655T",
-      "freq": 1.4,
-      "cores": 1
-    },
-    "memory": {
-      "ram": 512,
-      "rom": 2048
-    },
-    "date": "2011-12-22T15:00:00.000Z",
-    "display": {
-      "w": 540,
-      "h": 960,
-      "s": 3.7
-    }
-  },
   "IS11N": {
     "name": {
       "id": "MEDIAS BR",
@@ -6167,6 +6332,39 @@
       "w": 540,
       "h": 960,
       "s": 4
+    }
+  },
+  "IS14SH": {
+    "name": {
+      "id": "AQUOS PHONE",
+      "long": "IS14SH"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
+    },
+    "date": "2011-12-22T15:00:00.000Z",
+    "display": {
+      "w": 540,
+      "h": 960,
+      "s": 3.7
     }
   },
   "009Z": {
@@ -6400,39 +6598,6 @@
       "s": 3.7
     }
   },
-  "DM011SH": {
-    "name": {
-      "id": "DM011SH",
-      "long": ""
-    },
-    "carrier": {
-      "code": "dm",
-      "name": "ディズニー・モバイル"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "2.3"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8255",
-      "freq": 1,
-      "cores": 1
-    },
-    "memory": {
-      "ram": 512,
-      "rom": 1229
-    },
-    "date": "2011-12-01T15:00:00.000Z",
-    "display": {
-      "w": 480,
-      "h": 854,
-      "s": 3.4
-    }
-  },
   "SC-04D": {
     "name": {
       "id": "GALAXY NEXUS",
@@ -6464,6 +6629,39 @@
       "w": 720,
       "h": 1280,
       "s": 4.7
+    }
+  },
+  "DM011SH": {
+    "name": {
+      "id": "DM011SH",
+      "long": ""
+    },
+    "carrier": {
+      "code": "dm",
+      "name": "ディズニー・モバイル"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1229
+    },
+    "date": "2011-12-01T15:00:00.000Z",
+    "display": {
+      "w": 480,
+      "h": 854,
+      "s": 3.4
     }
   },
   "SH-01D": {
@@ -6631,6 +6829,39 @@
       "s": 4.5
     }
   },
+  "T-01D": {
+    "name": {
+      "id": "REGZA Phone",
+      "long": "T-01D"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "t",
+      "name": "富士通東芝"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.0"
+    },
+    "cpu": {
+      "name": "Texas Instruments OMAP4430",
+      "freq": 1.2,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
+    "date": "2011-11-17T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.3
+    }
+  },
   "101SH": {
     "name": {
       "id": "AQUOS PHONE THE HYBRID",
@@ -6695,39 +6926,6 @@
       "w": 540,
       "h": 960,
       "s": 4.2
-    }
-  },
-  "T-01D": {
-    "name": {
-      "id": "REGZA Phone",
-      "long": "T-01D"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "t",
-      "name": "富士通東芝"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.0"
-    },
-    "cpu": {
-      "name": "Texas Instruments OMAP4430",
-      "freq": 1.2,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 4096
-    },
-    "date": "2011-11-17T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.3
     }
   },
   "P-01D": {
@@ -7027,37 +7225,37 @@
       "s": 4
     }
   },
-  "EIS01PT": {
+  "S42HW": {
     "name": {
-      "id": "EIS01PT",
-      "long": ""
+      "id": "smart bar",
+      "long": "S42HW"
     },
     "carrier": {
-      "code": "a",
-      "name": "au"
+      "code": "e",
+      "name": "イー・モバイル"
     },
     "maker": {
-      "code": "pt",
-      "name": "パンテック"
+      "code": "hw",
+      "name": "Huawei"
     },
     "os": {
       "type": "android",
       "ver": "2.3"
     },
     "cpu": {
-      "name": "Qualcomm Snapdragon MSM8655",
-      "freq": 1,
+      "name": "Qualcomm MSM7227T",
+      "freq": 0.8,
       "cores": 1
     },
     "memory": {
       "ram": 512,
-      "rom": 1024
+      "rom": 512
     },
     "date": "2011-09-21T15:00:00.000Z",
     "display": {
       "w": 480,
       "h": 800,
-      "s": 3.7
+      "s": 3
     }
   },
   "IS11PT": {
@@ -7093,37 +7291,37 @@
       "s": 3.7
     }
   },
-  "S42HW": {
+  "EIS01PT": {
     "name": {
-      "id": "smart bar",
-      "long": "S42HW"
+      "id": "EIS01PT",
+      "long": ""
     },
     "carrier": {
-      "code": "e",
-      "name": "イー・モバイル"
+      "code": "a",
+      "name": "au"
     },
     "maker": {
-      "code": "hw",
-      "name": "Huawei"
+      "code": "pt",
+      "name": "パンテック"
     },
     "os": {
       "type": "android",
       "ver": "2.3"
     },
     "cpu": {
-      "name": "Qualcomm MSM7227T",
-      "freq": 0.8,
+      "name": "Qualcomm Snapdragon MSM8655",
+      "freq": 1,
       "cores": 1
     },
     "memory": {
       "ram": 512,
-      "rom": 512
+      "rom": 1024
     },
     "date": "2011-09-21T15:00:00.000Z",
     "display": {
       "w": 480,
       "h": 800,
-      "s": 3
+      "s": 3.7
     }
   },
   "007HW": {
@@ -7159,39 +7357,6 @@
       "s": 3.7
     }
   },
-  "007SH_KT": {
-    "name": {
-      "id": "007SH KT",
-      "long": ""
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "2.3"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8255",
-      "freq": 1,
-      "cores": 1
-    },
-    "memory": {
-      "ram": 512,
-      "rom": 1024
-    },
-    "date": "2011-09-08T15:00:00.000Z",
-    "display": {
-      "w": 480,
-      "h": 854,
-      "s": 3.4
-    }
-  },
   "IS11T": {
     "name": {
       "id": "REGZA Phone",
@@ -7223,6 +7388,39 @@
       "w": 480,
       "h": 854,
       "s": 4
+    }
+  },
+  "007SH_KT": {
+    "name": {
+      "id": "007SH KT",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8255",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 1024
+    },
+    "date": "2011-09-08T15:00:00.000Z",
+    "display": {
+      "w": 480,
+      "h": 854,
+      "s": 3.4
     }
   },
   "SO-03C": {
@@ -7654,39 +7852,6 @@
       "s": 3.7
     }
   },
-  "IS12SH": {
-    "name": {
-      "id": "AQUOS PHONE",
-      "long": "IS12SH"
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "2.3"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8655T",
-      "freq": 1.4,
-      "cores": 1
-    },
-    "memory": {
-      "ram": 512,
-      "rom": 2048
-    },
-    "date": "2011-06-28T15:00:00.000Z",
-    "display": {
-      "w": 540,
-      "h": 960,
-      "s": 4.2
-    }
-  },
   "BlackBerry_Bold_9780": {
     "name": {
       "id": "BlackBerry Bold",
@@ -7718,6 +7883,39 @@
       "w": 480,
       "h": 360,
       "s": 2.4
+    }
+  },
+  "IS12SH": {
+    "name": {
+      "id": "AQUOS PHONE",
+      "long": "IS12SH"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
+    },
+    "date": "2011-06-28T15:00:00.000Z",
+    "display": {
+      "w": 540,
+      "h": 960,
+      "s": 4.2
     }
   },
   "IS11S": {
@@ -7753,39 +7951,6 @@
       "s": 4.2
     }
   },
-  "IS11SH": {
-    "name": {
-      "id": "AQUOS PHONE",
-      "long": "IS11SH"
-    },
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "2.3"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon MSM8655T",
-      "freq": 1.4,
-      "cores": 1
-    },
-    "memory": {
-      "ram": 512,
-      "rom": 2048
-    },
-    "date": "2011-06-23T15:00:00.000Z",
-    "display": {
-      "w": 540,
-      "h": 960,
-      "s": 3.7
-    }
-  },
   "N-06C": {
     "name": {
       "id": "MEDIAS WP",
@@ -7817,6 +7982,39 @@
       "w": 480,
       "h": 854,
       "s": 4
+    }
+  },
+  "IS11SH": {
+    "name": {
+      "id": "AQUOS PHONE",
+      "long": "IS11SH"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "2.3"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon MSM8655T",
+      "freq": 1.4,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 2048
+    },
+    "date": "2011-06-23T15:00:00.000Z",
+    "display": {
+      "w": 540,
+      "h": 960,
+      "s": 3.7
     }
   },
   "SC-02C": {
@@ -8413,37 +8611,37 @@
       "s": 5
     }
   },
-  "S31HT": {
+  "T-01C": {
     "name": {
-      "id": "Aria",
-      "long": "S31HT"
+      "id": "REGZA Phone",
+      "long": "T-01C"
     },
     "carrier": {
-      "code": "e",
-      "name": "イー・モバイル"
+      "code": "d",
+      "name": "ドコモ"
     },
     "maker": {
-      "code": "ht",
-      "name": "HTC"
+      "code": "t",
+      "name": "富士通東芝"
     },
     "os": {
       "type": "android",
       "ver": "2.2"
     },
     "cpu": {
-      "name": "Qualcomm MSM7227",
-      "freq": 0.6,
+      "name": "Qualcomm Snapdragon QSD8250",
+      "freq": 1,
       "cores": 1
     },
     "memory": {
-      "ram": 384,
-      "rom": 512
+      "ram": 512,
+      "rom": 1024
     },
     "date": "2010-12-16T15:00:00.000Z",
     "display": {
-      "w": 320,
-      "h": 480,
-      "s": 3.2
+      "w": 480,
+      "h": 854,
+      "s": 4
     }
   },
   "003SH": {
@@ -8479,37 +8677,37 @@
       "s": 3.8
     }
   },
-  "T-01C": {
+  "S31HT": {
     "name": {
-      "id": "REGZA Phone",
-      "long": "T-01C"
+      "id": "Aria",
+      "long": "S31HT"
     },
     "carrier": {
-      "code": "d",
-      "name": "ドコモ"
+      "code": "e",
+      "name": "イー・モバイル"
     },
     "maker": {
-      "code": "t",
-      "name": "富士通東芝"
+      "code": "ht",
+      "name": "HTC"
     },
     "os": {
       "type": "android",
       "ver": "2.2"
     },
     "cpu": {
-      "name": "Qualcomm Snapdragon QSD8250",
-      "freq": 1,
+      "name": "Qualcomm MSM7227",
+      "freq": 0.6,
       "cores": 1
     },
     "memory": {
-      "ram": 512,
-      "rom": 1024
+      "ram": 384,
+      "rom": 512
     },
     "date": "2010-12-16T15:00:00.000Z",
     "display": {
-      "w": 480,
-      "h": 854,
-      "s": 4
+      "w": 320,
+      "h": 480,
+      "s": 3.2
     }
   },
   "SH-03C": {
@@ -8809,39 +9007,6 @@
       "s": 5
     }
   },
-  "iPhone_4": {
-    "name": {
-      "id": "iPhone 4",
-      "long": ""
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "a",
-      "name": "アップル"
-    },
-    "os": {
-      "type": "ios",
-      "ver": "7.1"
-    },
-    "cpu": {
-      "name": "Apple A4",
-      "freq": 1,
-      "cores": 1
-    },
-    "memory": {
-      "ram": 512,
-      "rom": 32768
-    },
-    "date": "2010-06-23T15:00:00.000Z",
-    "display": {
-      "w": 640,
-      "h": 960,
-      "s": 3.5
-    }
-  },
   "IS02": {
     "name": {
       "id": "IS02",
@@ -8873,6 +9038,39 @@
       "w": 480,
       "h": 800,
       "s": 4.1
+    }
+  },
+  "iPhone_4": {
+    "name": {
+      "id": "iPhone 4",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "7.1"
+    },
+    "cpu": {
+      "name": "Apple A4",
+      "freq": 1,
+      "cores": 1
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 32768
+    },
+    "date": "2010-06-23T15:00:00.000Z",
+    "display": {
+      "w": 640,
+      "h": 960,
+      "s": 3.5
     }
   },
   "T-01B": {
@@ -9689,6 +9887,34 @@
       "w": 1920,
       "h": 1200,
       "s": 10.1
+    }
+  },
+  "MI 3W": {
+    "name": {
+      "id": "Xiaomi Mi 3",
+      "long": "Mi 3"
+    },
+    "maker": {
+      "name": "Xiaomi"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM8274AB Snapdragon 801",
+      "freq": "2.3",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2013-11-01T15:00:00.000Z",
+    "display": {
+      "w": 1920,
+      "h": 1080,
+      "s": 5
     }
   }
 }
