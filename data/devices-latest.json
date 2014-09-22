@@ -1763,7 +1763,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A7",
@@ -1796,7 +1796,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A7",
@@ -1829,7 +1829,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A7",
@@ -1862,7 +1862,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A6",
@@ -1895,7 +1895,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A6",
@@ -1928,7 +1928,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A6",
@@ -2951,7 +2951,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A5",
@@ -4204,7 +4204,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A6",
@@ -4237,7 +4237,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A6",
@@ -7042,7 +7042,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A5",
@@ -7075,7 +7075,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "7.1"
+      "ver": "8"
     },
     "cpu": {
       "name": "Apple A5",
@@ -9915,6 +9915,174 @@
       "w": 1920,
       "h": 1080,
       "s": 5
+    }
+  },
+  "SM-P905": {
+    "name": {
+      "id": "Galaxy Note Pro 12.2 LTE",
+      "long": "SM-P905"
+    },
+    "maker": {
+      "name": "Samsung"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800",
+      "freq": "2.3",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-02-13T15:00:00.000Z",
+    "display": {
+      "w": 2560,
+      "h": 1600,
+      "s": 12.2
+    }
+  },
+  "LenovoB6000-F": {
+    "name": {
+      "id": "Yoga Tablet 8",
+      "long": "B6000-F"
+    },
+    "maker": {
+      "name": "Lenovo"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "cpu": {
+      "name": "MediaTek MT8125",
+      "freq": "1.2",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "date": "2013-10-05T15:00:00.000Z",
+    "display": {
+      "w": 1280,
+      "h": 1600,
+      "s": 8
+    }
+  },
+  "G750-U10": {
+    "name": {
+      "id": "Honor 3X",
+      "long": "G750-U10"
+    },
+    "maker": {
+      "name": "Huawei"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2.2"
+    },
+    "cpu": {
+      "name": "Mediatek MT6592",
+      "freq": "1.7",
+      "cores": 8
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 8192
+    },
+    "date": "2013-12-01T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5.5
+    }
+  },
+  "_M8x": {
+    "name": {
+      "id": "HTC One M8x LTE",
+      "long": "M8X"
+    },
+    "maker": {
+      "name": "HTC"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": "2.5",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-03-01T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    }
+  },
+  "KFTHWI": {
+    "name": {
+      "id": "Kindle Fire HDX 7",
+      "long": "KFTHWI"
+    },
+    "maker": {
+      "name": "Amazon"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2.2"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800",
+      "freq": "2.2",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2013-10-18T15:00:00.000Z",
+    "display": {
+      "w": 1920,
+      "h": 1200,
+      "s": 7
+    }
+  },
+  "HM_1S": {
+    "name": {
+      "id": "Xiaomi Hongmi 1S",
+      "long": "HM 1S"
+    },
+    "maker": {
+      "name": "Xiaomi"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM8228 Snapdragon",
+      "freq": "1.6",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2014-05-01T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.7
     }
   }
 }
