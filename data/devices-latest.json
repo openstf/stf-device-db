@@ -32,6 +32,72 @@
       "s": 5.5
     }
   },
+  "SOL26": {
+    "name": {
+      "id": "Xperia Z3",
+      "long": "SOL26"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-09-30T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    }
+  },
+  "SCL24": {
+    "name": {
+      "id": "GALAXY Note Edge",
+      "long": "SCL24"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sc",
+      "name": "サムスン"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 805 APQ8084",
+      "freq": 2.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-09-30T15:00:00.000Z",
+    "display": {
+      "w": 1600,
+      "h": 2560,
+      "s": 5.6
+    }
+  },
   "iPhone_6_Plus__": {
     "name": {
       "id": "iPhone 6 Plus",
@@ -9945,7 +10011,7 @@
       "s": 12.2
     }
   },
-  "LenovoB6000-F": {
+  "_B6000-F": {
     "name": {
       "id": "Yoga Tablet 8",
       "long": "B6000-F"
@@ -9973,7 +10039,7 @@
       "s": 8
     }
   },
-  "G750-U10": {
+  "_G750-U10": {
     "name": {
       "id": "Honor 3X",
       "long": "G750-U10"
@@ -10083,6 +10149,35 @@
       "w": 720,
       "h": 1280,
       "s": 4.7
+    }
+  },
+  "ASUS_T00J": {
+    "name": {
+      "id": "ASUS Zenfone 5",
+      "long": "T00J"
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    },
+    "cpu": {
+      "name": "Intel Atom Z2560",
+      "freq": "1.6",
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2014-04-01T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5
     }
   }
 }
