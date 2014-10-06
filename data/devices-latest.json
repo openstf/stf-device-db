@@ -32,6 +32,138 @@
       "s": 5.5
     }
   },
+  "SO-02G": {
+    "name": {
+      "id": "Xperia Z3 Compact",
+      "long": "SO-02G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-10-31T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.6
+    }
+  },
+  "Xperia_Z3": {
+    "name": {
+      "id": "Xperia Z3",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-10-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    }
+  },
+  "SH-02G": {
+    "name": {
+      "id": "Disney Mobile on docomo",
+      "long": "SH-02G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm、Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-10-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.5
+    }
+  },
+  "SH-01G": {
+    "name": {
+      "id": "AQUOS ZETA",
+      "long": "SH-01G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm、Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-10-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.5
+    }
+  },
   "SOL26": {
     "name": {
       "id": "Xperia Z3",
@@ -40,6 +172,39 @@
     "carrier": {
       "code": "a",
       "name": "au"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-09-30T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    }
+  },
+  "SO-01G": {
+    "name": {
+      "id": "Xperia Z3",
+      "long": "SO-01G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
     },
     "maker": {
       "code": "so",
@@ -96,6 +261,105 @@
       "w": 1600,
       "h": 2560,
       "s": 5.6
+    }
+  },
+  "SC-01G": {
+    "name": {
+      "id": "GALAXY Note Edge",
+      "long": "SC-01G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sc",
+      "name": "サムスン"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 805 APQ8084",
+      "freq": 2.7,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-09-30T15:00:00.000Z",
+    "display": {
+      "w": 1600,
+      "h": 2560,
+      "s": 5.6
+    }
+  },
+  "F-02G": {
+    "name": {
+      "id": "ARROWS NX",
+      "long": "F-02G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "f",
+      "name": "富士通"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm、Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-09-30T15:00:00.000Z",
+    "display": {
+      "w": 1440,
+      "h": 2560,
+      "s": 5.2
+    }
+  },
+  "SC-02G": {
+    "name": {
+      "id": "GALAXY S5 ACTIVE",
+      "long": "SC-02G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sc",
+      "name": "サムスン"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-10-03T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.1
     }
   },
   "iPhone_6_Plus__": {
@@ -10178,6 +10442,62 @@
       "w": 720,
       "h": 1280,
       "s": 5
+    }
+  },
+  "HM_NOTE_1W": {
+    "name": {
+      "id": "Redmi Note 1W",
+      "long": "HM NOTE 1W"
+    },
+    "maker": {
+      "name": "Xiaomi"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2.2"
+    },
+    "cpu": {
+      "name": "Mediatek MT6592",
+      "freq": "1.4",
+      "cores": 8
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "date": "2014-03-01T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5.5
+    }
+  },
+  "LG-F320K": {
+    "name": {
+      "id": "LG Optimus S G2 LTE-A",
+      "long": "F320K"
+    },
+    "maker": {
+      "name": "LG"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2.2"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM8974 Snapdragon 800",
+      "freq": "2.26",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 8192
+    },
+    "date": "2013-09-01T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
     }
   }
 }
