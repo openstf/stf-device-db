@@ -1796,7 +1796,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.2"
+      "ver": "4.4"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 800 MSM8974",
@@ -10498,6 +10498,34 @@
       "w": 1080,
       "h": 1920,
       "s": 5.2
+    }
+  },
+  "X9077": {
+    "name": {
+      "id": "Oppo Find 7",
+      "long": "X9077"
+    },
+    "maker": {
+      "name": "Oppo"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.3"
+    },
+    "cpu": {
+      "name": "Qualcomm MSM8974AC Snapdragon 801",
+      "freq": "2.5",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-05-00T15:00:00.000Z",
+    "display": {
+      "w": 1440,
+      "h": 2560,
+      "s": 5.5
     }
   }
 }
