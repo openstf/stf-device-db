@@ -88,5 +88,10 @@
       "forceTouchMode": "pressure",
       "forceMaxPressure": 10000
     }
+  },
+  "B6000-F": {
+    "flags": {
+      "forceTouchOrigin": "bottom left"
+    }
   }
 }
