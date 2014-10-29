@@ -72,19 +72,19 @@
     }
   },
   "F-08E": {
-    "flags": : {
+    "flags": {
       "forceTouchMode": "pressure",
       "forceMaxPressure": 10000
     }
   },
   "F-09E": {
-    "flags": : {
+    "flags": {
       "forceTouchMode": "pressure",
       "forceMaxPressure": 10000
     }
   },
   "F-12D": {
-    "flags": : {
+    "flags": {
       "forceTouchMode": "pressure",
       "forceMaxPressure": 10000
     }
