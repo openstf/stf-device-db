@@ -93,5 +93,10 @@
     "flags": {
       "forceTouchOrigin": "bottom left"
     }
+  },
+  "SC-03D": {
+    "flags": {
+      "forceMinScreenScale": 1
+    }
   }
 }
