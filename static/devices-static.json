@@ -66,23 +66,27 @@
     }
   },
   "F-06F": {
-    "touch": {
-      "defaultPressure": 10000
+    "flags": {
+      "forceTouchMode": "pressure",
+      "forceMaxPressure": 10000
     }
   },
   "F-08E": {
-    "touch": {
-      "defaultPressure": 10000
+    "flags": : {
+      "forceTouchMode": "pressure",
+      "forceMaxPressure": 10000
     }
   },
   "F-09E": {
-    "touch": {
-      "defaultPressure": 10000
+    "flags": : {
+      "forceTouchMode": "pressure",
+      "forceMaxPressure": 10000
     }
   },
   "F-12D": {
-    "touch": {
-      "defaultPressure": 10000
+    "flags": : {
+      "forceTouchMode": "pressure",
+      "forceMaxPressure": 10000
     }
   }
 }
