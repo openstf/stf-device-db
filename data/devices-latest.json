@@ -1,4 +1,70 @@
 {
+  "V01": {
+    "name": {
+      "id": "URBANO",
+      "long": "V01"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm、Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-11-30T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    }
+  },
+  "LGV31": {
+    "name": {
+      "id": "isai VL",
+      "long": "LGV31"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "l",
+      "name": "LG"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-11-30T15:00:00.000Z",
+    "display": {
+      "w": 1440,
+      "h": 2560,
+      "s": 5.5
+    }
+  },
   "306SH": {
     "name": {
       "id": "AQUOS CRYSTAL X",
@@ -32,37 +98,37 @@
       "s": 5.5
     }
   },
-  "SO-02G": {
+  "401SH": {
     "name": {
-      "id": "Xperia Z3 Compact",
-      "long": "SO-02G"
+      "id": "シンプルスマホ2",
+      "long": ""
     },
     "carrier": {
-      "code": "d",
-      "name": "ドコモ"
+      "code": "s",
+      "name": "ソフトバンク"
     },
     "maker": {
-      "code": "so",
-      "name": "ソニーモバイル"
+      "code": "sh",
+      "name": "シャープ"
     },
     "os": {
       "type": "android",
       "ver": "4.4"
     },
     "cpu": {
-      "name": "Qualcomm Snapdragon 801 MSM8974AC",
-      "freq": 2.5,
+      "name": "Qualcomm Snapdragon 400 MSM8926",
+      "freq": 1.2,
       "cores": 4
     },
     "memory": {
-      "ram": 2048,
-      "rom": 16384
+      "ram": 1536,
+      "rom": 8192
     },
     "date": "2014-10-31T15:00:00.000Z",
     "display": {
       "w": 720,
       "h": 1280,
-      "s": 4.6
+      "s": 4.5
     }
   },
   "Xperia_Z3": {
@@ -195,6 +261,39 @@
       "w": 1080,
       "h": 1920,
       "s": 5.5
+    }
+  },
+  "SO-02G": {
+    "name": {
+      "id": "Xperia Z3 Compact",
+      "long": "SO-02G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-11-11T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.6
     }
   },
   "SOL26": {
@@ -10521,11 +10620,39 @@
       "ram": 3072,
       "rom": 32768
     },
-    "date": "2014-05-00T15:00:00.000Z",
+    "date": "2014-05-01T15:00:00.000Z",
     "display": {
       "w": 1440,
       "h": 2560,
       "s": 5.5
+    }
+  },
+  "Nexus_9": {
+    "name": {
+      "id": "Nexus 9",
+      "long": "Nexus 9"
+    },
+    "maker": {
+      "name": "HTC"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Nvidia Tegra K1 64 bits",
+      "freq": "2.3",
+      "cores": 2
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-11-01T15:00:00.000Z",
+    "display": {
+      "w": 1536,
+      "h": 2048,
+      "s": 8.9
     }
   }
 }
