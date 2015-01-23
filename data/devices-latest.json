@@ -1,7 +1,73 @@
 {
-  "freetel_priori2": {
+  "INFOBAR_A03": {
     "name": {
-      "id": "freetel priori 2",
+      "id": "INFOBAR A03",
+      "long": ""
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-01-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 4.5
+    }
+  },
+  "KYV32": {
+    "name": {
+      "id": "BASIO",
+      "long": "KYV32"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 800 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-01-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    }
+  },
+  "pigu": {
+    "name": {
+      "id": "Polaroid pigu",
       "long": ""
     },
     "carrier": {
@@ -9,37 +75,70 @@
       "name": ""
     },
     "maker": {
-      "code": "_",
-      "name": ""
+      "code": "po",
+      "name": "ポラロイド"
     },
     "os": {
       "type": "android",
       "ver": "4.4"
     },
     "cpu": {
-      "name": "MediaTek MT6582M",
-      "freq": 1.3,
-      "cores": 4
+      "name": "",
+      "freq": 1,
+      "cores": 2
     },
     "memory": {
       "ram": 512,
+      "rom": 4096
+    },
+    "date": "2014-12-31T15:00:00.000Z",
+    "display": {
+      "w": 320,
+      "h": 480,
+      "s": 3.5
+    }
+  },
+  "KYL23": {
+    "name": {
+      "id": "miraie",
+      "long": "KYL23"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8926",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1536,
       "rom": 8192
     },
-    "date": "2014-11-30T15:00:00.000Z",
+    "date": "2014-12-31T15:00:00.000Z",
     "display": {
-      "w": 480,
-      "h": 854,
+      "w": 540,
+      "h": 960,
       "s": 4.5
     }
   },
-  "306SH": {
+  "SHV31": {
     "name": {
-      "id": "AQUOS CRYSTAL X",
-      "long": "306SH"
+      "id": "AQUOS SERIE mini",
+      "long": "SHV31"
     },
     "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
+      "code": "a",
+      "name": "au"
     },
     "maker": {
       "code": "sh",
@@ -50,7 +149,7 @@
       "ver": "4.4"
     },
     "cpu": {
-      "name": "Qualcomm、Snapdragon 801 MSM8974AB",
+      "name": "Qualcomm Snapdragon 800 MSM8974AB",
       "freq": 2.3,
       "cores": 4
     },
@@ -58,11 +157,11 @@
       "ram": 2048,
       "rom": 16384
     },
-    "date": "2014-11-30T15:00:00.000Z",
+    "date": "2014-12-31T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
-      "s": 5.5
+      "s": 4.5
     }
   },
   "KC-01": {
@@ -96,6 +195,104 @@
       "w": 540,
       "h": 960,
       "s": 4.5
+    }
+  },
+  "freetel_priori2": {
+    "name": {
+      "id": "freetel priori 2",
+      "long": ""
+    },
+    "carrier": {
+      "code": "_",
+      "name": ""
+    },
+    "maker": {
+      "code": "_",
+      "name": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "",
+      "freq": 1.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2014-12-26T15:00:00.000Z",
+    "display": {
+      "w": 480,
+      "h": 854,
+      "s": 4.5
+    }
+  },
+  "LGL25": {
+    "name": {
+      "id": "Fx0",
+      "long": "LGL25"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "l",
+      "name": "LG"
+    },
+    "os": {
+      "ver": "2.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8926",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 16384
+    },
+    "date": "2014-12-24T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.7
+    }
+  },
+  "306SH": {
+    "name": {
+      "id": "AQUOS CRYSTAL X",
+      "long": "306SH"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm、Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-12-18T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.5
     }
   },
   "LG_G3_Beat": {
@@ -11614,6 +11811,174 @@
     },
     "maker": {
       "name": "Samsung"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.4"
+    },
+    "cpu": {
+      "name": "MSM8974",
+      "freq": "2.3",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-12-12T15:00:00.000Z",
+    "display": {
+      "w": 1600,
+      "h": 2560,
+      "s": 8.4
+    }
+  },
+  "SHIELD_Tablet": {
+    "name": {
+      "id": "NVIDIA SHIELD",
+      "long": "SHIELD Tablet"
+    },
+    "maker": {
+      "name": "Nvidia"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.2"
+    },
+    "cpu": {
+      "name": "Cortex-A15",
+      "freq": "2.2",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-07-01T15:00:00.000Z",
+    "display": {
+      "w": 1920,
+      "h": 1200,
+      "s": 8
+    }
+  },
+  "MI_4W": {
+    "name": {
+      "id": "Xiaomi Mi 4",
+      "long": "MI 4W"
+    },
+    "maker": {
+      "name": "UPDATE"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.4"
+    },
+    "cpu": {
+      "name": "MSM8974",
+      "freq": "2.3",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-12-12T15:00:00.000Z",
+    "display": {
+      "w": 1600,
+      "h": 2560,
+      "s": 8.4
+    }
+  },
+  "A0001": {
+    "name": {
+      "id": "OnePlus One",
+      "long": "A0001"
+    },
+    "maker": {
+      "name": "UPDATE"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.4"
+    },
+    "cpu": {
+      "name": "MSM8974",
+      "freq": "2.3",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-12-12T15:00:00.000Z",
+    "display": {
+      "w": 1600,
+      "h": 2560,
+      "s": 8.4
+    }
+  },
+  "LG-F400S": {
+    "name": {
+      "id": "LG G3",
+      "long": "LG-F400S"
+    },
+    "maker": {
+      "name": "UPDATE"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.4"
+    },
+    "cpu": {
+      "name": "MSM8974",
+      "freq": "2.3",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-12-12T15:00:00.000Z",
+    "display": {
+      "w": 1600,
+      "h": 2560,
+      "s": 8.4
+    }
+  },
+  "403SC": {
+    "name": {
+      "id": "GALAXY Tab4 7.0",
+      "long": "403SC"
+    },
+    "maker": {
+      "name": "UPDATE"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.4"
+    },
+    "cpu": {
+      "name": "MSM8974",
+      "freq": "2.3",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2014-12-12T15:00:00.000Z",
+    "display": {
+      "w": 1600,
+      "h": 2560,
+      "s": 8.4
+    }
+  },
+  "SD4930UR": {
+    "name": {
+      "id": "Amazon Fire Phone",
+      "long": "SD4930UR"
+    },
+    "maker": {
+      "name": "UPDATE"
     },
     "os": {
       "type": "android",
