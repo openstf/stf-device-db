@@ -6,6 +6,7 @@
 *.pid
 *.seed
 *.tgz
+*.DS_Store
 /dist/
 /build/
 lib-cov
