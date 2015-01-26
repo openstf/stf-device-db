@@ -262,10 +262,10 @@
       "s": 4.7
     }
   },
-  "306SH": {
+  "402SH": {
     "name": {
       "id": "AQUOS CRYSTAL X",
-      "long": "306SH"
+      "long": "402SH"
     },
     "carrier": {
       "code": "s",
@@ -11806,7 +11806,7 @@
   },
   "SC-03G": {
     "name": {
-      "id": "GALAXY Tab S 8.4 ",
+      "id": "GALAXY Tab S 8.4",
       "long": "SC-03G"
     },
     "maker": {
@@ -11814,18 +11814,18 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.4.4"
+      "ver": "4.4.2"
     },
     "cpu": {
-      "name": "MSM8974",
+      "name": "Krait 400",
       "freq": "2.3",
       "cores": 4
     },
     "memory": {
       "ram": 3072,
-      "rom": 32768
+      "rom": 16384
     },
-    "date": "2014-12-12T15:00:00.000Z",
+    "date": "2014-06-30T15:00:00.000Z",
     "display": {
       "w": 1600,
       "h": 2560,
@@ -11834,7 +11834,7 @@
   },
   "SHIELD_Tablet": {
     "name": {
-      "id": "NVIDIA SHIELD",
+      "id": "SHIELD Tablet",
       "long": "SHIELD Tablet"
     },
     "maker": {
@@ -11866,26 +11866,26 @@
       "long": "MI 4W"
     },
     "maker": {
-      "name": "UPDATE"
+      "name": "Xiaomi"
     },
     "os": {
       "type": "android",
       "ver": "4.4.4"
     },
     "cpu": {
-      "name": "MSM8974",
-      "freq": "2.3",
+      "name": "Qualcomm Snapdragon 801",
+      "freq": "2.5",
       "cores": 4
     },
     "memory": {
       "ram": 3072,
-      "rom": 32768
+      "rom": 16384
     },
-    "date": "2014-12-12T15:00:00.000Z",
+    "date": "2014-07-31T15:00:00.000Z",
     "display": {
-      "w": 1600,
-      "h": 2560,
-      "s": 8.4
+      "w": 1080,
+      "h": 1920,
+      "s": 5
     }
   },
   "A0001": {
@@ -11894,26 +11894,26 @@
       "long": "A0001"
     },
     "maker": {
-      "name": "UPDATE"
+      "name": "OnePlus"
     },
     "os": {
       "type": "android",
       "ver": "4.4.4"
     },
     "cpu": {
-      "name": "MSM8974",
-      "freq": "2.3",
+      "name": "Krait 400",
+      "freq": "2.5",
       "cores": 4
     },
     "memory": {
       "ram": 3072,
-      "rom": 32768
+      "rom": 16384
     },
-    "date": "2014-12-12T15:00:00.000Z",
+    "date": "2014-05-31T15:00:00.000Z",
     "display": {
-      "w": 1600,
-      "h": 2560,
-      "s": 8.4
+      "w": 1080,
+      "h": 1920,
+      "s": 5.5
     }
   },
   "LG-F400S": {
@@ -11922,82 +11922,110 @@
       "long": "LG-F400S"
     },
     "maker": {
-      "name": "UPDATE"
+      "name": "LG"
     },
     "os": {
       "type": "android",
-      "ver": "4.4.4"
+      "ver": "4.4.2"
     },
     "cpu": {
-      "name": "MSM8974",
-      "freq": "2.3",
+      "name": "Krait 400",
+      "freq": "2.5",
       "cores": 4
     },
     "memory": {
-      "ram": 3072,
-      "rom": 32768
+      "ram": 2048,
+      "rom": 16384
     },
-    "date": "2014-12-12T15:00:00.000Z",
+    "date": "2014-05-27T15:00:00.000Z",
     "display": {
-      "w": 1600,
+      "w": 1440,
       "h": 2560,
-      "s": 8.4
+      "s": 5.5
     }
   },
   "403SC": {
     "name": {
-      "id": "GALAXY Tab4 7.0",
+      "id": "GALAXY Tab 4 7.0",
       "long": "403SC"
     },
     "maker": {
-      "name": "UPDATE"
+      "name": "Samsung"
     },
     "os": {
       "type": "android",
-      "ver": "4.4.4"
+      "ver": "4.4.2"
     },
     "cpu": {
-      "name": "MSM8974",
+      "name": "Cortex-A7",
       "freq": "2.3",
       "cores": 4
     },
     "memory": {
-      "ram": 3072,
-      "rom": 32768
+      "ram": 1536,
+      "rom": 8192
     },
-    "date": "2014-12-12T15:00:00.000Z",
+    "date": "2014-04-30T15:00:00.000Z",
     "display": {
-      "w": 1600,
-      "h": 2560,
-      "s": 8.4
+      "w": 800,
+      "h": 1280,
+      "s": 7
     }
   },
   "SD4930UR": {
     "name": {
-      "id": "Amazon Fire Phone",
+      "id": "Fire Phone",
       "long": "SD4930UR"
     },
     "maker": {
-      "name": "UPDATE"
+      "name": "Amazon"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2.2"
+    },
+    "cpu": {
+      "name": "Krait 400",
+      "freq": "2.26",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "date": "2014-07-24T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.7
+    }
+  },
+  "XT1092": {
+    "name": {
+      "id": "Moto X (2nd gen.)",
+      "long": "XT1092"
+    },
+    "maker": {
+      "name": "Motorola"
     },
     "os": {
       "type": "android",
       "ver": "4.4.4"
     },
     "cpu": {
-      "name": "MSM8974",
-      "freq": "2.3",
+      "name": "Qualcomm Snapdragon 801",
+      "freq": "2.5",
       "cores": 4
     },
     "memory": {
-      "ram": 3072,
-      "rom": 32768
+      "ram": 2048,
+      "rom": 16384
     },
-    "date": "2014-12-12T15:00:00.000Z",
+    "date": "2014-09-04T15:00:00.000Z",
     "display": {
-      "w": 1600,
-      "h": 2560,
-      "s": 8.4
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
     }
   }
 }
