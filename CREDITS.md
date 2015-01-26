@@ -31,3 +31,8 @@
 
 * [SoftBank press release](http://www.softbank.jp/corp/group/sbm/news/press/2014/20140818_03/)
 * [Official press images](http://www.sharp.co.jp/press/p140818.html)
+
+## Moto X 2014
+
+* [Official press images](https://drive.google.com/?tab=mo&authuser=0#folders/0B8Kpi4PsQvSQQjNwSDMwUjd0VHc)
+* Official press images distributed to media
