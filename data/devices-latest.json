@@ -124,7 +124,7 @@
       "ram": 1536,
       "rom": 8192
     },
-    "date": "2014-12-31T15:00:00.000Z",
+    "date": "2015-01-29T15:00:00.000Z",
     "display": {
       "w": 540,
       "h": 960,
@@ -157,11 +157,44 @@
       "ram": 2048,
       "rom": 16384
     },
-    "date": "2014-12-31T15:00:00.000Z",
+    "date": "2015-01-28T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
       "s": 4.5
+    }
+  },
+  "Liquid_Z200": {
+    "name": {
+      "id": "Liquid Z200",
+      "long": ""
+    },
+    "carrier": {
+      "code": "_",
+      "name": ""
+    },
+    "maker": {
+      "code": "ac",
+      "name": "Acer"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "MediaTek MT6572M",
+      "freq": 1,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 4096
+    },
+    "date": "2015-01-27T15:00:00.000Z",
+    "display": {
+      "w": 480,
+      "h": 800,
+      "s": 4
     }
   },
   "KC-01": {
@@ -12026,6 +12059,34 @@
       "w": 1080,
       "h": 1920,
       "s": 5.2
+    }
+  },
+  "G_Watch_R": {
+    "name": {
+      "id": "G Watch R",
+      "long": "lenok"
+    },
+    "maker": {
+      "name": "LG"
+    },
+    "os": {
+      "type": "Android Wear",
+      "ver": "5.0.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400",
+      "freq": "1.2",
+      "cores": 4
+    },
+    "memory": {
+      "ram": 512,
+      "rom": 4096
+    },
+    "date": "2014-11-12T15:00:00.000Z",
+    "display": {
+      "w": 320,
+      "h": 320,
+      "s": 1.3
     }
   }
 }
