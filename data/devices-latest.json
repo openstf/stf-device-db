@@ -1,4 +1,565 @@
 {
+  "V02": {
+    "name": {
+      "id": "URBANO",
+      "long": "V02"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8928",
+      "freq": 1.4,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-06-30T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5
+    }
+  },
+  "TORQUE_G02": {
+    "name": {
+      "id": "TORQUE",
+      "long": "G02"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8928",
+      "freq": 1.4,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-06-30T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.7
+    }
+  },
+  "AQUOS_CRYSTAL_2": {
+    "name": {
+      "id": "AQUOS CRYSTAL 2",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8926",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-06-30T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5.2
+    }
+  },
+  "SOV31": {
+    "name": {
+      "id": "Xperia Z4",
+      "long": "SOV31"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 810 MSM8994",
+      "freq": 2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-05-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    }
+  },
+  "SO-03G": {
+    "name": {
+      "id": "Xperia Z4",
+      "long": "SO-03G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 810 MSM8994",
+      "freq": 2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-05-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    }
+  },
+  "Xperia_Z4": {
+    "name": {
+      "id": "Xperia Z4",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 810 MSM8994",
+      "freq": 2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-05-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    }
+  },
+  "SO-04G": {
+    "name": {
+      "id": "Xperia A4",
+      "long": "SO-04G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-05-31T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.6
+    }
+  },
+  "AQUOS_Xx": {
+    "name": {
+      "id": "AQUOS Xx",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 810 MSM8994",
+      "freq": 2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-05-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.7
+    }
+  },
+  "SH-04G": {
+    "name": {
+      "id": "AQUOS EVER",
+      "long": "SH-04G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8926",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-05-31T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5
+    }
+  },
+  "MADOSMA_Q501": {
+    "name": {
+      "id": "MADOSMA Q501",
+      "long": ""
+    },
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/その他"
+    },
+    "maker": {
+      "code": "_",
+      "name": ""
+    },
+    "os": {
+      "type": "windowsphone",
+      "ver": "8.1 Update"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 410 MSM8916",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2015-06-17T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5
+    }
+  },
+  "HTV31": {
+    "name": {
+      "id": "HTC J butterfly",
+      "long": "HTV31"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "ht",
+      "name": "HTC"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 810 MSM8994",
+      "freq": 2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-06-04T15:00:00.000Z",
+    "display": {
+      "w": 1440,
+      "h": 2560,
+      "s": 5.2
+    }
+  },
+  "SHV32": {
+    "name": {
+      "id": "AQUOS SERIE",
+      "long": "SHV32"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 810 MSM8994",
+      "freq": 2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-06-04T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5
+    }
+  },
+  "LGV32": {
+    "name": {
+      "id": "isai vivid",
+      "long": "LGV32"
+    },
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "maker": {
+      "code": "l",
+      "name": "LG"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 808 MSM8992",
+      "freq": 1.8,
+      "cores": 6
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-05-28T15:00:00.000Z",
+    "display": {
+      "w": 1440,
+      "h": 2560,
+      "s": 5.5
+    }
+  },
+  "Galaxy_S6_edge": {
+    "name": {
+      "id": "Galaxy S6 edge",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sc",
+      "name": "サムスン"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Exynos7420",
+      "freq": 2.1,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 65536
+    },
+    "date": "2015-05-28T15:00:00.000Z",
+    "display": {
+      "w": 1440,
+      "h": 2560,
+      "s": 5.1
+    }
+  },
+  "DM-01G": {
+    "name": {
+      "id": "Disney Mobile on docomo",
+      "long": "DM-01G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "l",
+      "name": "LG"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-05-28T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.2
+    }
+  },
+  "F-04G": {
+    "name": {
+      "id": "ARROWS NX",
+      "long": "F-04G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "f",
+      "name": "富士通"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 810 MSM8994",
+      "freq": 2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-05-27T15:00:00.000Z",
+    "display": {
+      "w": 1440,
+      "h": 2560,
+      "s": 5.2
+    }
+  },
+  "SH-03G": {
+    "name": {
+      "id": "AQUOS ZETA",
+      "long": "SH-03G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 810 MSM8994",
+      "freq": 2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-05-27T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.5
+    }
+  },
   "ZenFone_2_ZE551ML": {
     "name": {
       "id": "ZenFone 2",
@@ -29,6 +590,39 @@
     "display": {
       "w": 1080,
       "h": 1920,
+      "s": 5.5
+    }
+  },
+  "TONE": {
+    "name": {
+      "id": "TONE",
+      "long": ""
+    },
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/その他"
+    },
+    "maker": {
+      "code": "_",
+      "name": ""
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    },
+    "cpu": {
+      "name": "",
+      "freq": 1.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
+    "date": "2015-05-04T15:00:00.000Z",
+    "display": {
+      "w": 540,
+      "h": 960,
       "s": 5.5
     }
   },
@@ -83,7 +677,7 @@
       "ver": "5.0"
     },
     "cpu": {
-      "name": "Exynos7420 OctaCore",
+      "name": "Exynos7420",
       "freq": 2.1,
       "cores": 8
     },
@@ -116,7 +710,7 @@
       "ver": "5.0"
     },
     "cpu": {
-      "name": "Exynos7420 OctaCore",
+      "name": "Exynos7420",
       "freq": 2.1,
       "cores": 8
     },
@@ -149,7 +743,7 @@
       "ver": "5.0"
     },
     "cpu": {
-      "name": "Exynos7420 OctaCore",
+      "name": "Exynos7420",
       "freq": 2.1,
       "cores": 8
     },
@@ -1531,7 +2125,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.4"
+      "ver": "5.0"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 801 MSM8974AC",
@@ -2719,7 +3313,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.4"
+      "ver": "5.0"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 801 MSM8974AC",
