@@ -10,19 +10,9 @@ Data is updated regularly from different sources.
 brew install jq jpegoptim graphicsmagick
 ```
 
-## Data sources
-
-### World smarphones
-
-* Data is manually obtained.
-
-### Japanese smartphones
-
-* Part of the data was obtained (with permission) from Ultrazone's [Smartphone Database](http://smartphone.ultra-zone.net/).
-* 一部のデータに関してはウルトラゾーン様の[スマートフォンデータベース](http://smartphone.ultra-zone.net/)より使用許可を頂いております。
 
 ## License
 
-![CC SA](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+See [LICENSE](LICENSE).
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/3.0/]().
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
