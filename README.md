@@ -105,6 +105,10 @@ If no match is found, `find()` returns `null`.
 
 Device thumbnails and photos are provided in the `dist` folder. It can be served as a static folder.
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
 See [LICENSE](LICENSE).
