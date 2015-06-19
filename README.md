@@ -44,6 +44,10 @@ On OS X, you can install the last three with:
 brew install jq jpegoptim graphicsmagick
 ```
 
+## Building
+
+Simply run `make` at the top of the repo after making sure you have the requirements installed. You will then have a complete list of resized icons and photos in the `dist` folder.
+
 ## Usage
 
 Install via NPM:
@@ -51,6 +55,8 @@ Install via NPM:
 ```bash
 npm install --save stf-device-db
 ```
+
+_The module is prebuilt before publishing, so you don't need the build requirements if you just want to use the library._
 
 Then you must find your device's model number and possibly the internal product name. On Android, this can be done with:
 
