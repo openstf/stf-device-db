@@ -1,6 +1,6 @@
 {
   "name": "stf-device-db",
-  "version": "0.6.34",
+  "version": "1.0.0",
   "description": "A smartphone/device database with images for STF.",
   "keywords": [
     "stf"
