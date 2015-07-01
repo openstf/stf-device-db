@@ -1,7 +1,13 @@
 {
   "name": "stf-device-db",
   "version": "0.6.34",
-  "description": "Smartphone devices JSON-based database including devices thumbnails",
+  "description": "A smartphone/device database with images for STF.",
+  "keywords": [
+    "stf"
+  ],
+  "bugs": {
+    "url": "https://github.com/openstf/stf-device-db/issues"
+  },
   "license": "CC BY-SA 3.0",
   "author": {
     "name": "CyberAgent, Inc.",
