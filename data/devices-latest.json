@@ -1,4 +1,37 @@
 {
+  "P8max": {
+    "name": {
+      "id": "P8max",
+      "long": ""
+    },
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/その他"
+    },
+    "maker": {
+      "code": "hw",
+      "name": "Huawei"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    },
+    "cpu": {
+      "name": "Hisilicon Kirin935",
+      "freq": 2.2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-07-31T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 6.8
+    }
+  },
   "V02": {
     "name": {
       "id": "URBANO",
@@ -91,10 +124,241 @@
       "ram": 2048,
       "rom": 16384
     },
-    "date": "2015-06-30T15:00:00.000Z",
+    "date": "2015-07-16T15:00:00.000Z",
     "display": {
       "w": 720,
       "h": 1280,
+      "s": 5.2
+    }
+  },
+  "402SH": {
+    "name": {
+      "id": "AQUOS CRYSTAL X",
+      "long": "402SH"
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4"
+    },
+    "cpu": {
+      "name": "Qualcomm、Snapdragon 801 MSM8974AB",
+      "freq": 2.3,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2014-12-18T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.5
+    }
+  },
+  "AQUOS_Xx": {
+    "name": {
+      "id": "AQUOS Xx",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 810 MSM8994",
+      "freq": 2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-06-25T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
+      "s": 5.7
+    }
+  },
+  "P8lite": {
+    "name": {
+      "id": "P8lite",
+      "long": ""
+    },
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/その他"
+    },
+    "maker": {
+      "code": "hw",
+      "name": "Huawei"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Hisilicon Kirin620",
+      "freq": 1.2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-06-18T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5
+    }
+  },
+  "SH-04G": {
+    "name": {
+      "id": "AQUOS EVER",
+      "long": "SH-04G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 400 MSM8926",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-06-18T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5
+    }
+  },
+  "SO-04G": {
+    "name": {
+      "id": "Xperia A4",
+      "long": "SO-04G"
+    },
+    "carrier": {
+      "code": "d",
+      "name": "ドコモ"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 801 MSM8974AC",
+      "freq": 2.5,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2015-06-17T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 4.6
+    }
+  },
+  "MADOSMA_Q501": {
+    "name": {
+      "id": "MADOSMA Q501",
+      "long": ""
+    },
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/その他"
+    },
+    "maker": {
+      "code": "_",
+      "name": ""
+    },
+    "os": {
+      "type": "windowsphone",
+      "ver": "8.1"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 410 MSM8916",
+      "freq": 1.2,
+      "cores": 4
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "date": "2015-06-17T15:00:00.000Z",
+    "display": {
+      "w": 720,
+      "h": 1280,
+      "s": 5
+    }
+  },
+  "Xperia_Z4": {
+    "name": {
+      "id": "Xperia Z4",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    },
+    "cpu": {
+      "name": "Qualcomm Snapdragon 810 MSM8994",
+      "freq": 2,
+      "cores": 8
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "date": "2015-06-11T15:00:00.000Z",
+    "display": {
+      "w": 1080,
+      "h": 1920,
       "s": 5.2
     }
   },
@@ -124,7 +388,7 @@
       "ram": 3072,
       "rom": 32768
     },
-    "date": "2015-05-31T15:00:00.000Z",
+    "date": "2015-06-10T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
@@ -157,176 +421,11 @@
       "ram": 3072,
       "rom": 32768
     },
-    "date": "2015-05-31T15:00:00.000Z",
+    "date": "2015-06-09T15:00:00.000Z",
     "display": {
       "w": 1080,
       "h": 1920,
       "s": 5.2
-    }
-  },
-  "Xperia_Z4": {
-    "name": {
-      "id": "Xperia Z4",
-      "long": ""
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "so",
-      "name": "ソニーモバイル"
-    },
-    "os": {
-      "type": "android",
-      "ver": "5.0"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon 810 MSM8994",
-      "freq": 2,
-      "cores": 8
-    },
-    "memory": {
-      "ram": 3072,
-      "rom": 32768
-    },
-    "date": "2015-05-31T15:00:00.000Z",
-    "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 5.2
-    }
-  },
-  "SO-04G": {
-    "name": {
-      "id": "Xperia A4",
-      "long": "SO-04G"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "so",
-      "name": "ソニーモバイル"
-    },
-    "os": {
-      "type": "android",
-      "ver": "5.0"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon 801 MSM8974AC",
-      "freq": 2.5,
-      "cores": 4
-    },
-    "memory": {
-      "ram": 2048,
-      "rom": 16384
-    },
-    "date": "2015-05-31T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 4.6
-    }
-  },
-  "AQUOS_Xx": {
-    "name": {
-      "id": "AQUOS Xx",
-      "long": ""
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "5.0"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon 810 MSM8994",
-      "freq": 2,
-      "cores": 8
-    },
-    "memory": {
-      "ram": 3072,
-      "rom": 32768
-    },
-    "date": "2015-05-31T15:00:00.000Z",
-    "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 5.7
-    }
-  },
-  "SH-04G": {
-    "name": {
-      "id": "AQUOS EVER",
-      "long": "SH-04G"
-    },
-    "carrier": {
-      "code": "d",
-      "name": "ドコモ"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "5.0"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon 400 MSM8926",
-      "freq": 1.2,
-      "cores": 4
-    },
-    "memory": {
-      "ram": 2048,
-      "rom": 16384
-    },
-    "date": "2015-05-31T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 5
-    }
-  },
-  "MADOSMA_Q501": {
-    "name": {
-      "id": "MADOSMA Q501",
-      "long": ""
-    },
-    "carrier": {
-      "code": "_",
-      "name": "MVNO/その他"
-    },
-    "maker": {
-      "code": "_",
-      "name": ""
-    },
-    "os": {
-      "type": "windowsphone",
-      "ver": "8.1 Update"
-    },
-    "cpu": {
-      "name": "Qualcomm Snapdragon 410 MSM8916",
-      "freq": 1.2,
-      "cores": 4
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 8192
-    },
-    "date": "2015-06-17T15:00:00.000Z",
-    "display": {
-      "w": 720,
-      "h": 1280,
-      "s": 5
     }
   },
   "HTV31": {
@@ -1384,39 +1483,6 @@
       "s": 4.7
     }
   },
-  "402SH": {
-    "name": {
-      "id": "AQUOS CRYSTAL X",
-      "long": "402SH"
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "os": {
-      "type": "android",
-      "ver": "4.4"
-    },
-    "cpu": {
-      "name": "Qualcomm、Snapdragon 801 MSM8974AB",
-      "freq": 2.3,
-      "cores": 4
-    },
-    "memory": {
-      "ram": 2048,
-      "rom": 16384
-    },
-    "date": "2014-12-18T15:00:00.000Z",
-    "display": {
-      "w": 1080,
-      "h": 1920,
-      "s": 5.5
-    }
-  },
   "LG_G3_Beat": {
     "name": {
       "id": "LG G3 Beat",
@@ -2191,7 +2257,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A8",
@@ -2224,7 +2290,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A8",
@@ -2257,7 +2323,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A8",
@@ -2275,39 +2341,6 @@
       "s": 5.5
     }
   },
-  "iPhone_6": {
-    "name": {
-      "id": "iPhone 6",
-      "long": ""
-    },
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "maker": {
-      "code": "a",
-      "name": "アップル"
-    },
-    "os": {
-      "type": "ios",
-      "ver": "8"
-    },
-    "cpu": {
-      "name": "Apple A8",
-      "freq": 1.4,
-      "cores": 2
-    },
-    "memory": {
-      "ram": 1024,
-      "rom": 131072
-    },
-    "date": "2014-09-18T15:00:00.000Z",
-    "display": {
-      "w": 750,
-      "h": 1334,
-      "s": 4.7
-    }
-  },
   "iPhone_6__": {
     "name": {
       "id": "iPhone 6",
@@ -2323,7 +2356,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A8",
@@ -2356,7 +2389,40 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
+    },
+    "cpu": {
+      "name": "Apple A8",
+      "freq": 1.4,
+      "cores": 2
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 131072
+    },
+    "date": "2014-09-18T15:00:00.000Z",
+    "display": {
+      "w": 750,
+      "h": 1334,
+      "s": 4.7
+    }
+  },
+  "iPhone_6": {
+    "name": {
+      "id": "iPhone 6",
+      "long": ""
+    },
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "maker": {
+      "code": "a",
+      "name": "アップル"
+    },
+    "os": {
+      "type": "ios",
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A8",
@@ -3280,7 +3346,7 @@
     },
     "os": {
       "type": "android",
-      "ver": "4.4"
+      "ver": "5.0"
     },
     "cpu": {
       "name": "Qualcomm Snapdragon 801 MSM8974AC",
@@ -4370,7 +4436,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A7",
@@ -4403,7 +4469,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A7",
@@ -4436,7 +4502,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A7",
@@ -4469,7 +4535,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A6",
@@ -4502,7 +4568,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A6",
@@ -4535,7 +4601,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A6",
@@ -5624,7 +5690,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A5",
@@ -6862,14 +6928,14 @@
       "s": 4.1
     }
   },
-  "iPhone_5": {
+  "iPhone_5_": {
     "name": {
       "id": "iPhone 5",
       "long": ""
     },
     "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
+      "code": "a",
+      "name": "au"
     },
     "maker": {
       "code": "a",
@@ -6877,7 +6943,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A6",
@@ -6895,14 +6961,14 @@
       "s": 4
     }
   },
-  "iPhone_5_": {
+  "iPhone_5": {
     "name": {
       "id": "iPhone 5",
       "long": ""
     },
     "carrier": {
-      "code": "a",
-      "name": "au"
+      "code": "s",
+      "name": "ソフトバンク"
     },
     "maker": {
       "code": "a",
@@ -6910,7 +6976,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A6",
@@ -9715,7 +9781,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A5",
@@ -9748,7 +9814,7 @@
     },
     "os": {
       "type": "ios",
-      "ver": "8"
+      "ver": "8.4"
     },
     "cpu": {
       "name": "Apple A5",
