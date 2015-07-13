@@ -3994,7 +3994,8 @@
   "Nexus_5": {
     "name": {
       "id": "Nexus 5",
-      "long": "EM01L"
+      "long": "EM01L",
+      "product": "hammerhead"
     },
     "carrier": {
       "code": "e",
@@ -13120,6 +13121,35 @@
       "w": 720,
       "h": 1280,
       "s": 4.7
+    }
+  },
+  "XT1053": {
+    "name": {
+      "id": "Moto X (1st gen.)",
+      "long": "XT1053",
+      "product": "ghost_retail"
+    },
+    "maker": {
+      "name": "Motorola"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.4"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": "1.7",
+      "name": "Qualcomm Snapdragon S4 MSM8960DT"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "date": "2013-08-01T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.7,
+      "w": 720
     }
   },
   "XT1092": {
