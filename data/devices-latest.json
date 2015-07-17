@@ -1682,6 +1682,39 @@
       "ver": "4.4"
     }
   },
+  "402SO": {
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2,
+      "name": "Qualcomm Snapdragon 810 MSM8994"
+    },
+    "date": "2015-06-11T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.2,
+      "w": 1080
+    },
+    "maker": {
+      "code": "so",
+      "name": "ソニーモバイル"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "name": {
+      "id": "Xperia Z4",
+      "long": "402SO"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    }
+  },
   "403SC": {
     "cpu": {
       "cores": 4,
@@ -1743,6 +1776,39 @@
       "ver": "5.0"
     }
   },
+  "404SH": {
+    "carrier": {
+      "code": "s",
+      "name": "ソフトバンク"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2,
+      "name": "Qualcomm Snapdragon 810 MSM8994"
+    },
+    "date": "2015-06-25T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.7,
+      "w": 1080
+    },
+    "maker": {
+      "code": "sh",
+      "name": "シャープ"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "name": {
+      "id": "AQUOS Xx",
+      "long": "404SH"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    }
+  },
   "A0001": {
     "cpu": {
       "cores": 4,
@@ -1797,39 +1863,6 @@
     },
     "name": {
       "id": "AQUOS CRYSTAL 2",
-      "long": ""
-    },
-    "os": {
-      "type": "android",
-      "ver": "5.0"
-    }
-  },
-  "AQUOS_Xx": {
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "cpu": {
-      "cores": 8,
-      "freq": 2,
-      "name": "Qualcomm Snapdragon 810 MSM8994"
-    },
-    "date": "2015-06-25T15:00:00.000Z",
-    "display": {
-      "h": 1920,
-      "s": 5.7,
-      "w": 1080
-    },
-    "maker": {
-      "code": "sh",
-      "name": "シャープ"
-    },
-    "memory": {
-      "ram": 3072,
-      "rom": 32768
-    },
-    "name": {
-      "id": "AQUOS Xx",
       "long": ""
     },
     "os": {
@@ -5894,6 +5927,39 @@
     "os": {
       "type": "android",
       "ver": "4.4"
+    }
+  },
+  "KYV35": {
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 1.4,
+      "name": "Qualcomm Snapdragon 400 MSM8928"
+    },
+    "date": "2015-07-15T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.7,
+      "w": 720
+    },
+    "maker": {
+      "code": "k",
+      "name": "京セラ"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "TORQUE G02",
+      "long": "KYV35"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
     }
   },
   "KYY22": {
@@ -11554,39 +11620,6 @@
       "ver": "4.2"
     }
   },
-  "TORQUE_G02": {
-    "carrier": {
-      "code": "a",
-      "name": "au"
-    },
-    "cpu": {
-      "cores": 4,
-      "freq": 1.4,
-      "name": "Qualcomm Snapdragon 400 MSM8928"
-    },
-    "date": "2015-06-30T15:00:00.000Z",
-    "display": {
-      "h": 1280,
-      "s": 4.7,
-      "w": 720
-    },
-    "maker": {
-      "code": "k",
-      "name": "京セラ"
-    },
-    "memory": {
-      "ram": 2048,
-      "rom": 16384
-    },
-    "name": {
-      "id": "TORQUE",
-      "long": "G02"
-    },
-    "os": {
-      "type": "android",
-      "ver": "5.1"
-    }
-  },
   "URBANO_PROGRESSO": {
     "carrier": {
       "code": "a",
@@ -11630,7 +11663,7 @@
       "freq": 1.4,
       "name": "Qualcomm Snapdragon 400 MSM8928"
     },
-    "date": "2015-06-30T15:00:00.000Z",
+    "date": "2015-07-17T15:00:00.000Z",
     "display": {
       "h": 1280,
       "s": 5,
@@ -12165,39 +12198,6 @@
     "os": {
       "type": "android",
       "ver": "4.4"
-    }
-  },
-  "Xperia_Z4": {
-    "carrier": {
-      "code": "s",
-      "name": "ソフトバンク"
-    },
-    "cpu": {
-      "cores": 8,
-      "freq": 2,
-      "name": "Qualcomm Snapdragon 810 MSM8994"
-    },
-    "date": "2015-06-11T15:00:00.000Z",
-    "display": {
-      "h": 1920,
-      "s": 5.2,
-      "w": 1080
-    },
-    "maker": {
-      "code": "so",
-      "name": "ソニーモバイル"
-    },
-    "memory": {
-      "ram": 3072,
-      "rom": 32768
-    },
-    "name": {
-      "id": "Xperia Z4",
-      "long": ""
-    },
-    "os": {
-      "type": "android",
-      "ver": "5.0"
     }
   },
   "ZenFone_2_ZE551ML": {
