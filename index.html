@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Stf-device-db by openstf</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Stf-device-db</h1>
+      <h2 class="project-tagline">A JSON-based database of smartphones, tablets and wearables.</h2>
+      <a href="https://github.com/openstf/stf-device-db" class="btn">View on GitHub</a>
+      <a href="https://github.com/openstf/stf-device-db/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/openstf/stf-device-db/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h1>
+<a id="stf-device-db" class="anchor" href="#stf-device-db" aria-hidden="true"><span class="octicon octicon-link"></span></a>stf-device-db</h1>
+
+<p><strong>stf-device-db</strong> is a JSON-based database of smartphones, tablets and wearables. The database includes thumbnails for each device and some basic information about the default model at the time of release. It is not complete; currently it mainly covers devices sold in the Japanese market. Data is added as required.</p>
+
+<p>This database is currently being used in <a href="https://github.com/openstf/stf">STF</a>.</p>
+
+<h2>
+<a id="features" class="anchor" href="#features" aria-hidden="true"><span class="octicon octicon-link"></span></a>Features</h2>
+
+<p>For each device, the following information is provided:</p>
+
+<ul>
+<li>Model code (e.g. "SCV31")</li>
+<li>Product name (e.g. "Galaxy S6 edge")</li>
+<li>Thumbnail</li>
+<li>Larger image</li>
+<li>Carrier (most devices in the Japanese market are carrier-specific models)</li>
+<li>Manufacturer</li>
+<li>OS</li>
+<li>CPU</li>
+<li>Memory</li>
+<li>Disk space (if multiple sizes, lowest)</li>
+<li>Release date (on the Japanese market)</li>
+<li>Display size</li>
+</ul>
+
+<p>The model code can usually be retrieved from a device quite easily, which then allows fairly straightforward mapping to the device data. Note that some carriers may sometimes prefix models numbers with their own code, which you must strip first.</p>
+
+<h2>
+<a id="sources" class="anchor" href="#sources" aria-hidden="true"><span class="octicon octicon-link"></span></a>Sources</h2>
+
+<p>The data in this repository is updated regularly from various sources.</p>
+
+<ul>
+<li>
+<a href="http://smartphone.ultra-zone.net/">ULTRAZONE's Japanese smartphone database</a> is currently our main provider for phone data. While their data is not open source, we have asked and obtained a permission to use it. The database is unfortunately limited to phones and does not currently offer useful data for tablets or other devices.</li>
+<li>Official press releases. We try to keep model-specific sources in <a href="CREDITS.md">CREDITS.md</a>.</li>
+<li>Manual investigation especially for tablets.</li>
+</ul>
+
+<h2>
+<a id="requirements" class="anchor" href="#requirements" aria-hidden="true"><span class="octicon octicon-link"></span></a>Requirements</h2>
+
+<ul>
+<li>
+<a href="https://nodejs.org/">Node.js</a> &gt;= 0.10</li>
+<li><a href="http://stedolan.github.io/jq/">jq</a></li>
+<li><a href="https://github.com/tjko/jpegoptim">jpegoptim</a></li>
+<li><a href="http://www.graphicsmagick.org/">GraphicsMagick</a></li>
+</ul>
+
+<p>On OS X, you can install the last three with:</p>
+
+<div class="highlight highlight-bash"><pre>brew install jq jpegoptim graphicsmagick</pre></div>
+
+<h2>
+<a id="building" class="anchor" href="#building" aria-hidden="true"><span class="octicon octicon-link"></span></a>Building</h2>
+
+<p>Simply run <code>make</code> at the top of the repo after making sure you have the requirements installed. You will then have a complete list of resized icons and photos in the <code>dist</code> folder.</p>
+
+<h2>
+<a id="usage" class="anchor" href="#usage" aria-hidden="true"><span class="octicon octicon-link"></span></a>Usage</h2>
+
+<p>Install via NPM:</p>
+
+<div class="highlight highlight-bash"><pre>npm install --save stf-device-db</pre></div>
+
+<p><em>The module is prebuilt before publishing, so you don't need the build requirements if you just want to use the library.</em></p>
+
+<p>Then you must find your device's model number and possibly the internal product name. On Android, this can be done with:</p>
+
+<div class="highlight highlight-bash"><pre>adb shell getprop ro.product.model
+adb shell getprop ro.product.name</pre></div>
+
+<p>The internal product name is not required, but helps make a more specific match for some devices (mainly Nexus devices which reuse the model code for newer models of the same size).</p>
+
+<p>For example, for a Nexus 5 these values would be:</p>
+
+<div class="highlight highlight-json"><pre>{
+  <span class="pl-s"><span class="pl-pds">"</span>model<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>Nexus 5<span class="pl-pds">"</span></span>,
+  <span class="pl-s"><span class="pl-pds">"</span>name<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>hammerhead<span class="pl-pds">"</span></span>
+}</pre></div>
+
+<p>You can then require the database and use it to find matching data based on the above values:</p>
+
+<div class="highlight highlight-javascript"><pre><span class="pl-k">var</span> db <span class="pl-k">=</span> <span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">'</span>stf-device-db<span class="pl-pds">'</span></span>)
+
+<span class="pl-k">var</span> data <span class="pl-k">=</span> db.<span class="pl-c1">find</span>({
+  model<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Nexus 5<span class="pl-pds">'</span></span>,
+  name<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>hammerhead<span class="pl-pds">'</span></span>
+})</pre></div>
+
+<p><code>data</code> would then be:</p>
+
+<div class="highlight highlight-javascript"><pre>{ carrier<span class="pl-k">:</span> { code<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>e<span class="pl-pds">'</span></span>, name<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>イー・モバイル<span class="pl-pds">'</span></span> },
+  cpu<span class="pl-k">:</span> { cores<span class="pl-k">:</span> <span class="pl-c1">4</span>, freq<span class="pl-k">:</span> <span class="pl-c1">2.26</span>, name<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Qualcomm Snapdragon 800 MSM8974<span class="pl-pds">'</span></span> },
+  date<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>2013-11-14T15:00:00.000Z<span class="pl-pds">'</span></span>,
+  display<span class="pl-k">:</span> { h<span class="pl-k">:</span> <span class="pl-c1">1920</span>, s<span class="pl-k">:</span> <span class="pl-c1">5</span>, w<span class="pl-k">:</span> <span class="pl-c1">1080</span> },
+  maker<span class="pl-k">:</span> { code<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>l<span class="pl-pds">'</span></span>, name<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>LG<span class="pl-pds">'</span></span> },
+  memory<span class="pl-k">:</span> { ram<span class="pl-k">:</span> <span class="pl-c1">2048</span>, rom<span class="pl-k">:</span> <span class="pl-c1">32768</span> },
+  name<span class="pl-k">:</span> { id<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Nexus 5<span class="pl-pds">'</span></span>, long<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>EM01L<span class="pl-pds">'</span></span> },
+  os<span class="pl-k">:</span> { type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>android<span class="pl-pds">'</span></span>, ver<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>5.1<span class="pl-pds">'</span></span> },
+  image<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>Nexus_5.jpg<span class="pl-pds">'</span></span> }</pre></div>
+
+<p>If no match is found, <code>find()</code> returns <code>null</code>.</p>
+
+<p>Device thumbnails and photos are provided in the <code>dist</code> folder. It can be served as a static folder.</p>
+
+<h2>
+<a id="contributing" class="anchor" href="#contributing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contributing</h2>
+
+<p>See <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
+
+<h2>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h2>
+
+<p>See <a href="LICENSE">LICENSE</a>.</p>
+
+<p><a href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a><br>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/openstf/stf-device-db">Stf-device-db</a> is maintained by <a href="https://github.com/openstf">openstf</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+            <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-64458786-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
+
