@@ -10,7 +10,7 @@ module.exports = function(properties) {
           case 'nakasi':
             return 'Nexus_7_2012'
           case 'razor':
-			return 'Nexus_7'
+	        return 'Nexus_7'
           case 'razorg':
             return 'Nexus_7_2013'
         }
