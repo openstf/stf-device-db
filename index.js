@@ -1,4 +1,4 @@
-var data = require('./dist/devices-latest')
+var data = require('./dist/devices-latest.json')
 var mapping = require('./mapping')
 
 module.exports.find = function(properties) {
