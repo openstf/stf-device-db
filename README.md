@@ -1,5 +1,9 @@
 # stf-device-db
 
+# Warning
+
+This repository is superseded by https://github.com/DeviceFarmer/stf-device-db
+
 **stf-device-db** is a JSON-based database of smartphones, tablets and wearables. The database includes thumbnails for each device and some basic information about the default model at the time of release. It is not complete; currently it mainly covers devices sold in the Japanese market. Data is added as required.
 
 This database is currently being used in [STF](https://github.com/openstf/stf).
