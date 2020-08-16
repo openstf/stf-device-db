@@ -11749,6 +11749,62 @@
       "ver": "4.2"
     }
   },
+  "SM-J111F": {
+    "cpu": {
+      "cores": 4,
+      "freq": "1.5",
+      "name": "Marvell ARMADA Mobile PXA1908"
+    },
+    "date": "2015-09-01T15:00:00.000Z",
+    "display": {
+      "h": 800,
+      "s": 4.3,
+      "w": 480
+    },
+    "maker": {
+      "name": "Samsung"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 8192
+    },
+    "name": {
+      "id": "GALAXY J1 ACE NEO",
+      "long": "SM-J111F"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1.1"
+    }
+  },
+  "SM-G935F": {
+    "cpu": {
+      "cores": 8,
+      "freq": "2.3",
+      "name": "Exynos 8890"
+    },
+    "date": "2016-02-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.5,
+      "w": 1440
+    },
+    "maker": {
+      "name": "Samsung"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 32768
+    },
+    "name": {
+      "id": "GALAXY S7 EDGE",
+      "long": "SM-G935F"
+    },
+    "os": {
+      "type": "android",
+      "ver": "7.0"
+    }
+  },
   "SM-P905": {
     "cpu": {
       "cores": 4,
@@ -13485,6 +13541,35 @@
     "os": {
       "type": "windowsmobile",
       "ver": "6.5"
+    }
+  },
+  "10": {
+    "cpu": {
+      "cores": 4,
+      "freq": 2.15,
+      "name": "Qualcomm MSM8996 Snapdragon 820"
+    },
+    "date": "2016-05-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.2,
+      "w": 1440
+    },
+    "maker": {
+      "code": "ht",
+      "name": "HTC"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 32768
+    },
+    "name": {
+      "id": "HTC 10",
+      "long": "pmeuhl_00401"
+    },
+    "os": {
+      "type": "android",
+      "ver": "7.0"
     }
   },
   "X04HT": {
