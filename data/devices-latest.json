@@ -15239,5 +15239,389 @@
       "type": "android",
       "ver": "4.4"
     }
+  },
+  "SM-G925F": {
+    "carrier": {
+      "name": "zeroltexx"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2.1 GHz Cortex-A57"
+    },
+    "date": "2015-04-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.1,
+      "w": 1440 
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "name": {
+      "id": "Samsung Galaxy S6 Edge",
+      "long": "zeroltexx"
+    },
+    "os": {
+      "type": "android",
+      "ver": "6.0.1"
+    }
+  },
+  "GT-I9195I": {
+    "carrier": {
+      "name": "serranoveltexx"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1.7,
+      "name": "Dual-core 1.7 GHz Krait 300"
+    },
+    "date": "2013-07-01T15:00:00.000Z",
+    "display": {
+      "h": 960,
+      "s": 4.3,
+      "w": 540
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 8192
+    },
+    "name": {
+      "id": "Samsung Galaxy S4 Mini",
+      "long": "serranoveltexx"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.4"
+    }
+  },
+  "GT-I9301I": {
+    "carrier": {
+      "name": "s3ve3gxx"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 1.4,
+      "name": "Quad-core 1.4 GHz Cortex-A7"
+    },
+    "date": "2014-06-01T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.8,
+      "w": 720
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 1536,
+      "rom": 8192
+    },
+    "name": {
+      "id": "Samsung Galaxy S3 NEO",
+      "long": "s3ve3gxx"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.2"
+    }
+  },
+  "GT-I9515": {
+    "carrier": {
+      "name": "jfveltexx"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 1.9,
+      "name": "Quad-Core 1.9 GHz Krait 300"
+    },
+    "date": "2014-05-01T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Samsung Galaxy S4 Value",
+      "long": "jfveltexx"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0.1"
+    }
+  },
+  "SM-G900F": {
+    "carrier": {
+      "name": "kltexx"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 1.9,
+      "name": "Quad-core 2.5 GHz Krait 400"
+    },
+    "date": "2014-04-01T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.1,
+      "w": 1080
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Samsung Galaxy S5",
+      "long": "kltexx"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    }
+  },
+  "SM-G920F": {
+    "carrier": {
+      "name": "zerofltexx"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2.1 GHz Cortex-A57"
+    },
+    "date": "2015-04-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.1,
+      "w": 1440
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "name": {
+      "id": "Samsung Galaxy S6",
+      "long": "zerofltexx"
+    },
+    "os": {
+      "type": "android",
+      "ver": "6.0.1"
+    }
+  },
+  "SM-N910F": {
+    "carrier": {
+      "name": "trltexx"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 2.7,
+      "name": "Quad-core 2.7 GHz Krait 450"
+    },
+    "date": "2014-10-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.7,
+      "w": 1440
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "name": {
+      "id": "Samsung Galaxy Note 4",
+      "long": "trltexx"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1.1"
+    }
+  },
+  "GT-S7582": {
+    "carrier": {
+      "name": "kyleprodsxx"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1.2,
+      "name": "Dual-core 1.2 GHz Cortex-A9"
+    },
+    "date": "2013-12-01T15:00:00.000Z",
+    "display": {
+      "h": 800,
+      "s": 4,
+      "w": 480
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 768,
+      "rom": 4096
+    },
+    "name": {
+      "id": "Samsung Galaxy S 2 Duos",
+      "long": "kyleprodsxx"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2.2"
+    }
+  },
+  "C1905": {
+    "carrier": {
+      "name": "C1905_1274-5505"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1.0,
+      "name": "Quad-core 2.7 GHz Krait 450"
+    },
+    "date": "2013-08-01T15:00:00.000Z",
+    "display": {
+      "h": 854,
+      "s": 4,
+      "w": 480
+    },
+    "maker": {
+      "code": "so",
+      "name": "Sony mobile"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 4096
+    },
+    "name": {
+      "id": "Sony Xperia M",
+      "long": "C1905_1274-5505"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1.2"
+    }
+  },
+  "One_M9": {
+    "carrier": {
+      "name": "himauhl_htc_europe"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.0,
+      "name": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2.0 GHz Cortex-A57"
+    },
+    "date": "2015-04-01T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "ht",
+      "name": "HTC"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "name": {
+      "id": "HTC One M9",
+      "long": "himauhl_htc_europe"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0.2"
+    }
+  },
+  "One_M8": {
+    "carrier": {
+      "name": "htc_europe"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 2.3,
+      "name": "Quad-core 2.3 GHz"
+    },
+    "date": "2014-04-01T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "ht",
+      "name": "HTC"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "HTC One M8",
+      "long": "htc_europe"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.3"
+    }
+  },
+  "ASUS_Z00AD": {
+    "carrier": {
+      "name": "WW_Z00A"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 2.3,
+      "name": "Quad-core 2.3 GHz"
+    },
+    "date": "2015-03-01T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 32768
+    },
+    "name": {
+      "id": "Asus Zenfone 2",
+      "long": "ASUS_Z00AD"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0"
+    }
   }
 }
