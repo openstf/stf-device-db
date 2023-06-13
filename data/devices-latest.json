@@ -1,4 +1,23 @@
 {
+  "SM-G960U1": {
+    "cpu": {
+      "cores": 8,
+      "freq": 2.8,
+      "name": "Snapdragon 845 SDM845"
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": null
+    },
+    "name": {
+      "id": "Galaxy S9",
+      "long": "SM-G960U1"
+    }
+  },
   "001DL": {
     "carrier": {
       "code": "s",
