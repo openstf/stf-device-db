@@ -1,6 +1,6 @@
 {
   "name": "@devicefarmer/stf-device-db",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A smartphone/device database for STF.",
   "keywords": [
     "stf"
