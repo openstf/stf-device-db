@@ -1,0 +1,11 @@
+stf-device-db
+Copyright © DeviceFarmer and contributors.
+
+Licensed under the Apache License, Version 2.0 (Apache-2.0); see LICENSE.
+The exception is the device database (dist/devices.json), which is licensed
+under the Creative Commons Attribution-ShareAlike 4.0 International License
+(CC-BY-SA-4.0); see dist/LICENSE for its sources and the full license text.
+
+Brand, device and model names in the database are trademarks of their
+respective owners. They are used only to identify devices and do not imply
+any affiliation with or endorsement by those owners.

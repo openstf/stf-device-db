@@ -117,7 +117,7 @@ jobs:
           npm pack --dry-run --json > "$RUNNER_TEMP/pack.json"
           node -e '
             var files = require(process.argv[1])[0].files.map(function(f) { return f.path })
-            var wanted = ["index.js", "index.d.ts", "brands.js", "dist/devices.json", "LICENSE"]
+            var wanted = ["index.js", "index.d.ts", "brands.js", "dist/devices.json", "dist/LICENSE", "LICENSE", "NOTICE"]
             var missing = wanted.filter(function(file) { return files.indexOf(file) < 0 })
             console.log(files.join("\n"))
             if (missing.length) {

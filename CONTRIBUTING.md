@@ -20,4 +20,4 @@ We are happy to accept contributions that follow the guidelines below.
 
 ## License
 
-By contributing to this repository, you agree to license your contributions under our [LICENSE](LICENSE).
+By contributing to this repository, you agree to license your contributions under our licenses: [LICENSE](LICENSE) for code and [dist/LICENSE](dist/LICENSE) for data.

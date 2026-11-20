@@ -20,7 +20,9 @@
     "index.js",
     "index.d.ts",
     "brands.js",
-    "dist/devices.json"
+    "dist/devices.json",
+    "dist/LICENSE",
+    "NOTICE"
   ],
   "repository": {
     "type": "git",
